@@ -4,9 +4,14 @@
 
 Breeze icons for other DEs.
 
-----
+Original authorized by KDE VDG
+
 # Available in
 
+KDE, GNOME, Xfce, Cinnamon
 
-----
-# Screenshots
+
+# To-do Lists for breeze-extended
+
+[ ] Color Varients
+[ ] MATE, LXQt Supports
