@@ -13,5 +13,5 @@ KDE, GNOME, Xfce, Cinnamon
 
 # To-do Lists for breeze-extended
 
-- [] Color Varients
-- [] MATE, LXQt Supports
+[] Color Varients
+[] MATE, LXQt Supports
