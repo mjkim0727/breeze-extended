@@ -13,5 +13,5 @@ KDE, GNOME, Xfce, Cinnamon
 
 # To-do Lists for breeze-extended
 
-- [ ] Color Varients
+- [ ] Color Varients : Win11 Style Varient(eleven) Added
 - [ ] MATE, LXQt Supports

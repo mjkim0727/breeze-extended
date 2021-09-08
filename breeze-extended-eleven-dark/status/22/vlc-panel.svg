@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="22" height="22" version="1.1">
+ <defs id="defs4">
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eff0f1; } .ColorScheme-Highlight { color:#3daee9; }
+  </style>
+  <clipPath id="clipPath4186" clipPathUnits="userSpaceOnUse">
+   <circle id="circle7" cx="286" cy="26" r="10"/>
+  </clipPath>
+ </defs>
+ <path id="rect4271" style="color:#eff0f1;opacity:1;fill:#eff0f1;fill-opacity:1;stroke:none;stroke-width:3.29999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 9.1191402,2.9999998 5.2558592,17 H 2.9999999 v 2 H 19 V 17 H 16.744141 L 12.880859,2.9999998 Z m 0.761719,1 h 2.2382818 l 0.550781,2 H 9.3300782 Z m -1.378906,5 H 13.498047 L 14.326172,12 H 7.6738282 Z M 6.8457032,15 h 8.3085938 l 0.550781,2 H 6.2949222 Z"/>
+</svg>
