@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 48 48"
+   id="svg55"
+   sodipodi:docname="kbruch.svg"
+   width="48"
+   height="48"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata59">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     id="namedview57"
+     showgrid="true"
+     inkscape:zoom="13.76"
+     inkscape:cx="16"
+     inkscape:cy="21.813953"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg55">
+    <inkscape:grid
+       type="xygrid"
+       id="grid932" />
+  </sodipodi:namedview>
+  <defs
+     id="defs17">
+    <linearGradient
+       id="b"
+       x1="434.57144"
+       x2="384.57144"
+       y1="543.79797"
+       y2="503.798"
+       gradientTransform="matrix(0.87499975,0,0,0.90000028,-333.49993,-447.41843)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#343b40"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#555e63"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="a"
+       x2="0"
+       y1="43.999973"
+       y2="4"
+       gradientTransform="matrix(0.91666577,0,0,0.95000013,1.9999997,1.1999973)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#bd8d48"
+         offset="0"
+         id="stop7" />
+      <stop
+         stop-color="#e8b971"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <rect
+     x="3"
+     y="6"
+     width="42"
+     height="36"
+     id="rect19"
+     style="fill:url(#b);stroke-width:0.86602473" />
+  <path
+     d="M 1.9999997,5 V 6.9000013 43 H 3.8333279 45.999959 L 46,40.150025 45.999959,6.9000013 V 5 H 44.166617 3.8333279 Z M 5,8 H 43 V 40 H 5 Z"
+     id="path21"
+     style="fill:url(#a);stroke-width:0.91069406"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccc" />
+  <path
+     style="color:#000000;fill:#aa7f41;fill-opacity:0.49803904;stroke-width:0.89594203"
+     d="M 5 8 L 5 40 L 43 40 L 43 8 L 5 8 z M 6 9 L 42 9 L 42 39 L 6 39 L 6 9 z "
+     id="path929" />
+  <rect
+     x="28"
+     y="38"
+     width="6"
+     height="2"
+     id="rect25"
+     style="color:#000000;fill:#007ad9;stroke-width:1.15471089" />
+  <rect
+     x="34.999962"
+     y="38"
+     width="6"
+     height="2"
+     id="rect29"
+     style="color:#000000;fill:#d6d6d6;stroke-width:1.15469539" />
+  <path
+     d="M 9.0084,25 C 9.0028,25 9,25.223 9,25.5 9,25.777 9.00421,26 9.0084,26 h 13.983148 c 0.0056,0 0.0085,-0.223 0.0085,-0.5 0,-0.277 -0.0027,-0.5 -0.0085,-0.5 z"
+     id="path31"
+     inkscape:connector-curvature="0"
+     style="fill:#d6d6d6;stroke-width:0.93543565" />
+  <text
+     x="12.200609"
+     y="23.136621"
+     font-size="21.333334px"
+     letter-spacing="0px"
+     word-spacing="0px"
+     style="font-size:25.7132473px;line-height:1.25;font-family:monospace;letter-spacing:0px;word-spacing:0px;fill:#d6d6d6;stroke-width:1.20530844"
+     xml:space="preserve"
+     id="text35"
+     transform="scale(1.0113989,0.98872958)"><tspan
+       x="12.200609"
+       y="23.136621"
+       font-size="10.666667px"
+       id="tspan33"
+       style="font-size:12.85662365px;font-family:'Nimbus Sans';fill:#d6d6d6;stroke-width:1.20530844">6</tspan></text>
+  <text
+     x="12.177595"
+     y="37.628212"
+     font-size="10.666667px"
+     letter-spacing="0px"
+     word-spacing="0px"
+     style="font-size:12.51122761px;line-height:1.25;font-family:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#d6d6d6;stroke-width:1.1729275"
+     xml:space="preserve"
+     id="text39"
+     transform="scale(1.0203601,0.98004616)"><tspan
+       x="12.177595"
+       y="37.628212"
+       id="tspan37"
+       style="stroke-width:1.1729275">3</tspan></text>
+  <path
+     d="M 25.0025,24 C 25,24 25,24.222999 25,24.5 c 0,0.277 0.001,0.5 0.0025,0.5 h 4.994999 c 0.0025,0 0.0025,-0.223 0.0025,-0.5 0,-0.277001 -9.09e-4,-0.5 -0.0025,-0.5 z"
+     id="path41"
+     inkscape:connector-curvature="0"
+     style="fill:#d6d6d6;stroke-width:0.5590868" />
+  <path
+     d="M 25.0025,26 C 25,26 25,26.223 25,26.5 c 0,0.277 0.001,0.5 0.0025,0.5 h 4.994999 c 0.0025,0 0.0025,-0.223 0.0025,-0.5 0,-0.277 -9.09e-4,-0.5 -0.0025,-0.5 z"
+     id="path43"
+     inkscape:connector-curvature="0"
+     style="fill:#d6d6d6;stroke-width:0.5590868" />
+  <text
+     x="31.041044"
+     y="30.33709"
+     font-size="10.666667px"
+     letter-spacing="0px"
+     word-spacing="0px"
+     style="font-size:12.57061672px;line-height:1.25;font-family:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#d6d6d6;stroke-width:1.17849541"
+     xml:space="preserve"
+     id="text47"
+     transform="scale(1.0112363,0.98888855)"><tspan
+       x="31.041044"
+       y="30.33709"
+       id="tspan45"
+       style="stroke-width:1.17849541">2</tspan></text>
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="rect934"
+     width="44"
+     height="1"
+     x="2"
+     y="42" />
+</svg>
