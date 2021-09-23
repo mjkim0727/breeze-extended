@@ -130,17 +130,14 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14" />
   <path
-     fill="#1f8fd7"
      d="m24 4h18c1.108 0 2 0.892 2 2v18h-20z"
      id="path4"
      style="fill:url(#linearGradient841);fill-opacity:1" />
   <path
-     fill="#1f8fd7"
      d="m24 44h-18c-1.108 0-2-0.892-2-2v-18h20z"
      id="path6"
      style="fill-opacity:1;fill:url(#linearGradient849)" />
   <path
-     fill="#2d4a5d"
      d="m24 44h18c1.108 0 2-0.892 2-2v-18h-20z"
      id="path8"
      style="fill-opacity:1;fill:url(#linearGradient857)" />
@@ -154,7 +151,6 @@
      d="M 24 4 L 18.759766 13.076172 L 12.419922 9.4160156 L 4 24 L 38.640625 44 L 42 44 C 43.108 44 44 43.108 44 42 L 44 24 L 44 15.546875 L 24 4 z "
      id="rect859" />
   <path
-     fill="#2d4a5d"
      d="m24 4h-18c-1.108 0-2 0.892-2 2v18h20z"
      id="path2"
      style="fill:url(#linearGradient833);fill-opacity:1" />
