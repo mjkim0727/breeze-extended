@@ -176,6 +176,13 @@ Type=Scalable
 MinSize=48
 MaxSize=256
 
+[apps/scalable]
+Size=48
+Context=Applications
+Type=Scalable
+MinSize=48
+MaxSize=256
+
 #32x32 - Fixed size - For System Settings icons >!!!ONLY!!!< - Scalable to the following sizes: 32x32 (default), 64x64, 128x128, 256x256 - DO_NOT_USE_ANYWHERE_ELSE - Color
 [preferences/32]
 Size=32

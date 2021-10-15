@@ -135,28 +135,24 @@
      width="32"
      y="18"
      x="8"
-     fill="#5d5d5d"
      id="rect2"
      style="fill:#2d2d3d;fill-opacity:1" />
   <circle
      cy="24"
      cx="24"
      r="4"
-     fill="#ff6363"
      id="circle12"
      style="fill-opacity:1;fill:url(#linearGradient4527)" />
   <circle
      cy="24"
      cx="34"
      r="4"
-     fill="#ff6363"
      id="circle16"
      style="fill-opacity:1;fill:url(#linearGradient4535)" />
   <circle
      cy="24"
      cx="14"
      r="4"
-     fill="#ff6363"
      id="circle20"
      style="fill:url(#linearGradient4519);fill-opacity:1" />
   <path

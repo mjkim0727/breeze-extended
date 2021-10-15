@@ -157,7 +157,6 @@
      inkscape:current-layer="svg20" />
   <path
      d="m24 4c-4.513 0-8.653 1.4975-11.992 4h-2.008c-1.108 0-2 0.892-2 2v2.0078c-2.5025 3.339-4 7.479-4 11.992s1.4975 8.653 4 11.992v2.008c0 1.108 0.892 2 2 2h2.0078c3.3394 2.5025 7.4796 4 11.992 4 4.5126 0 8.6528-1.4975 11.992-4h2.008c1.108 0 2-0.892 2-2v-2.0078c2.502-3.339 4-7.479 4-11.992s-1.498-8.653-4-11.992v-2.008c0-1.108-0.892-2-2-2h-2.008c-3.339-2.5025-7.479-4-11.992-4z"
-     fill="#5e5e5e"
      id="path2"
      style="fill:url(#linearGradient4504);fill-opacity:1" />
   <path
@@ -178,7 +177,6 @@
      transform="matrix(0,-1,-1,0,0,0)"
      cy="-24"
      r="15"
-     fill="#3f3f3f"
      id="circle8" />
   <circle
      style="enable-background:new;fill:url(#radialGradient4496);fill-opacity:1"
@@ -186,7 +184,6 @@
      transform="matrix(0,-1,-1,0,0,0)"
      cy="-24"
      r="13"
-     fill="#fec006"
      id="circle10" />
   <path
      style="opacity:0.25;vector-effect:none;fill:url(#linearGradient4531);fill-opacity:1;stroke:none;stroke-width:1.263363;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -198,7 +195,6 @@
      transform="matrix(0,-1,-1,0,0,0)"
      cy="-24"
      r="6"
-     fill="#3f3f3f"
      id="circle12" />
   <path
      d="M 4.0195,23.5 C 4.0154,23.667 4,23.832 4,24 c 0,4.513 1.4975,8.653 4,11.992 v -1 C 5.591,31.778 4.1265,27.817 4.0195,23.5 Z m 39.96,0 c -0.107,4.317 -1.571,8.278 -3.98,11.492 v 1 c 2.502,-3.339 4,-7.479 4,-11.992 0,-0.168 -0.015,-0.333 -0.02,-0.5 z M 7.9995,37 v 1 c 0,1.108 0.892,2 2,2 h 2.008 c 3.339,2.502 7.479,4 11.992,4 4.513,0 8.653,-1.498 11.992,-4 h 2.008 c 1.108,0 2,-0.892 2,-2 v -1 c 0,1.108 -0.892,2 -2,2 h -2.008 c -3.339,2.502 -7.479,4 -11.992,4 -4.513,0 -8.653,-1.498 -11.992,-4 h -2.008 c -1.108,0 -2,-0.892 -2,-2 z"
