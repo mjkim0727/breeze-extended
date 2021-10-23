@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="fcitx-hangul-panel.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="18.68"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#cecfce; } .ColorScheme-Highlight { color:#3daee9; }
+  </style>
+  </defs>
+  <path
+     style="color:#cecfce;fill:currentColor"
+     d="M 5 3 C 3.892 3 3 3.892 3 5 L 3 17 C 3 18.108 3.892 19 5 19 L 17 19 C 18.108 19 19 18.108 19 17 L 19 5 C 19 3.892 18.108 3 17 3 L 5 3 z M 5 4 L 17 4 C 17.571297 4 18 4.4287028 18 5 L 18 17 C 18 17.571297 17.571297 18 17 18 L 5 18 C 4.4287028 18 4 17.571297 4 17 L 4 5 C 4 4.4287028 4.4287028 4 5 4 z M 8 5 L 8 6 L 10 6 L 10 5 L 8 5 z M 14 6 L 14 14 L 15 14 L 15 10 L 17 10 L 17 9 L 15 9 L 15 6 L 14 6 z M 6 7 L 6 8 L 12 8 L 12 7 L 6 7 z M 9 9 C 7.4031 9 6 10.0577 6 11.5 C 6 12.9423 7.4031 14 9 14 C 10.5969 14 12 12.9423 12 11.5 C 12 10.0577 10.5969 9 9 9 z M 9 10 C 10.1645 10 11 10.7332 11 11.5 C 11 12.2668 10.1645 13 9 13 C 7.8355 13 7 12.2668 7 11.5 C 7 10.7332 7.8355 10 9 10 z M 8 15 L 8 17 L 16 17 L 16 16 L 9 16 L 9 15 L 8 15 z "
+     id="path833" />
+</svg>
