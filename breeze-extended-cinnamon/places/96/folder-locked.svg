@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="folder-locked.svg"
+   sodipodi:docname="folder.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,9 +26,9 @@
      showgrid="false"
      units="px"
      height="96px"
-     inkscape:zoom="16.333333"
-     inkscape:cx="48.091837"
-     inkscape:cy="55.163265"
+     inkscape:zoom="5.7747054"
+     inkscape:cx="83.554046"
+     inkscape:cy="55.414082"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -41,11 +41,11 @@
        inkscape:collect="always"
        id="linearGradient4652">
       <stop
-         style="stop-color:#82705e;stop-opacity:1;"
+         style="stop-color:#9b4519;stop-opacity:1;"
          offset="0"
          id="stop4648" />
       <stop
-         style="stop-color:#a89888;stop-opacity:1"
+         style="stop-color:#ab4d1c;stop-opacity:1"
          offset="1"
          id="stop4650" />
     </linearGradient>
@@ -53,11 +53,11 @@
        inkscape:collect="always"
        id="linearGradient3734">
       <stop
-         style="stop-color:#bda792;stop-opacity:1;"
+         style="stop-color:#e38452;stop-opacity:1;"
          offset="0"
          id="stop3730" />
       <stop
-         style="stop-color:#c9b8a7;stop-opacity:1"
+         style="stop-color:#dd682a;stop-opacity:1"
          offset="1"
          id="stop3732" />
     </linearGradient>
@@ -65,10 +65,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3734"
        id="linearGradient3736"
-       x1="15.081244"
-       y1="23.283333"
-       x2="15.081244"
-       y2="5.5562501"
+       x1="7.0407987"
+       y1="5.594326"
+       x2="24.077084"
+       y2="23.283333"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -113,7 +113,7 @@
   <path
      id="path848"
      d="m 12.675195,10.847958 c -0.966488,0.01278 -1.760637,0.766643 -1.823661,1.731161 l -5.17e-4,2.237548 h 0.2651 l 0.001,-2.237548 c 0.06321,-0.827424 0.753017,-1.466556 1.582851,-1.466577 0.829633,2.64e-4 1.519137,0.639352 1.582332,1.466577 l 0.0052,2.237589 H 9.525 v 3.96875 h 6.35 v -3.96875 h -1.322917 l -0.0036,-2.237589 C 14.484738,11.605137 13.676061,10.847781 12.7,10.847958 c -0.0083,-5.5e-5 -0.01655,-5.5e-5 -0.02481,0 z"
-     style="fill:#867a6e;stroke-linejoin:round"
+     style="fill:#eff0f1;stroke-linejoin:round"
      stroke-width="0.29459"
      sodipodi:nodetypes="ccccccccccccccccc" />
 </svg>

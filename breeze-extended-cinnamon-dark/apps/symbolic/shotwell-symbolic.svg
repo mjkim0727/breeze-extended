@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="shotwell-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="16px"
+     inkscape:zoom="34.648232"
+     inkscape:cx="7.6338672"
+     inkscape:cy="7.2730984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="레이어 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect846"
+       style="fill:#eff0f1;stroke-width:0.305722"
+       d="M 0.26458333,0.26458333 V 3.96875 H 3.96875 V 0.26458333 Z M 0.52916667,0.52916667 H 3.7041667 V 3.175 H 2.2508962 V 2.502302 L 2.2677771,2.4896413 2.8357011,2.0495304 3.4512536,1.9795949 2.7555167,1.8192257 2.2508962,2.1423757 V 2.1279063 L 2.1049964,1.6775462 1.5323784,1.2018646 1.9182291,1.6865896 1.9755041,2.0139598 1.6107546,1.8192257 0.91501752,1.9795949 1.53057,2.0495299 1.8971282,2.3069646 1.9953992,2.3811206 V 3.175 H 0.52916667 Z"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
+  </g>
+</svg>

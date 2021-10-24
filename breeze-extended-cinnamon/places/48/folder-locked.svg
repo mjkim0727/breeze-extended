@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="folder-locked.svg"
+   sodipodi:docname="folder.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,11 +27,11 @@
      units="px"
      height="48px"
      borderlayer="false"
-     inkscape:zoom="8.3854167"
-     inkscape:cx="10.375155"
-     inkscape:cy="35.955279"
+     inkscape:zoom="4.1927084"
+     inkscape:cx="-4.4124223"
+     inkscape:cy="45.078261"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -42,11 +42,11 @@
        inkscape:collect="always"
        id="linearGradient6505">
       <stop
-         style="stop-color:#82705e;stop-opacity:1"
+         style="stop-color:#9b4519;stop-opacity:1"
          offset="0"
          id="stop6501" />
       <stop
-         style="stop-color:#a89888;stop-opacity:0.99912935"
+         style="stop-color:#ab4d1c;stop-opacity:0.99912935"
          offset="1"
          id="stop6503" />
     </linearGradient>
@@ -54,11 +54,11 @@
        inkscape:collect="always"
        id="linearGradient6033">
       <stop
-         style="stop-color:#bda792;stop-opacity:1"
+         style="stop-color:#e38452;stop-opacity:1"
          offset="0"
          id="stop6029" />
       <stop
-         style="stop-color:#c9b8a7;stop-opacity:1"
+         style="stop-color:#dd682a;stop-opacity:1"
          offset="1"
          id="stop6031" />
     </linearGradient>
@@ -66,10 +66,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient6033"
        id="linearGradient6035"
-       x1="8.7787342"
-       y1="11.09021"
-       x2="8.772356"
-       y2="3.172493"
+       x1="4.0095162"
+       y1="3.1828573"
+       x2="11.641666"
+       y2="11.1125"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -116,5 +116,5 @@
   <path
      d="m 6.3499999,5.8208333 c -0.4397375,0 -0.79375,0.3540125 -0.79375,0.79375 v 0.79375 H 5.0270833 v 1.5875 h 2.6458328 v -1.5875 h -0.529166 v -0.79375 c 0,-0.4397375 -0.354013,-0.79375 -0.7937502,-0.79375 z m 0,0.2645834 c 0.3298032,0 0.5291662,0.1444095 0.5291662,0.5291666 v 0.79375 H 5.8208333 v -0.79375 c 0,-0.3847571 0.1993651,-0.5291666 0.5291666,-0.5291666 z"
      id="path23"
-     style="fill:#867a6e;fill-opacity:1;stroke-width:0.264583" />
+     style="fill:#eff0f1;fill-opacity:1;stroke-width:0.264583" />
 </svg>
