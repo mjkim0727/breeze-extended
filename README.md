@@ -8,10 +8,20 @@ Original authorized by KDE VDG
 
 # Available in
 
-KDE, GNOME, Xfce, Cinnamon
+KDE, GNOME, Xfce, Cinnamon, LXQt, MATE
 
+# Varients
+
+- Default
+- Win11(breeze-extended-eleven) : With Win11 Colors
+- macOS Style(breeze-extended-mac) : with macOS Style icons
+- Cinnamon(breeze-extended-cinnamon) : with Cinnamon Colors
+- MATE(breeze-extended-mate) : with MATE-colors
+- GNOME(breeze-extended-gnome) : GNOME icons with Breeze Style
 
 # To-do Lists for breeze-extended
 
 - [ ] Color Varients : Win11 Style Varient(eleven) Added
 - [ ] MATE, LXQt Supports
+- [ ] GNOME Shell themes
+- [ ] Cinnamon Shell themes
