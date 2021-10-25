@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg8"
+   width="22"
+   height="22"
+   version="1.1"
+   sodipodi:docname="lyricfier-tray.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     id="namedview6"
+     showgrid="true"
+     inkscape:zoom="21.46"
+     inkscape:cx="2.4259087"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid832" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#cecfce; } .ColorScheme-Highlight { color:#3daee9; }
+  </style>
+  </defs>
+  <path
+     style="fill:#cecfce;fill-opacity:1;stroke-width:0.40000001"
+     d="M 3.8007812 3 C 3.3575812 3 3 3.3575813 3 3.8007812 L 3 18.199219 C 3 18.642419 3.3575813 19 3.8007812 19 L 19.199219 19 C 19.642419 19 20 18.642419 20 18.199219 L 20 3.8007812 C 20 3.3575812 19.642419 3 19.199219 3 L 3.8007812 3 z M 4 4 L 19 4 L 19 18 L 4 18 L 4 4 z M 10.5 5 C 10.223 5 10 5.3345 10 5.75 L 10 16.25 C 10 16.6655 10.223 17 10.5 17 C 10.777 17 11 16.6655 11 16.25 L 11 5.75 C 11 5.3345 10.777 5 10.5 5 z M 6.5 6 C 6.2229999 6 6 6.3705492 6 6.8320312 L 6 15.167969 C 6 15.629451 6.2229999 16 6.5 16 C 6.777 16 7 15.629451 7 15.167969 L 7 6.8320312 C 7 6.3705494 6.777 6 6.5 6 z M 12.5 6 C 12.223 6 12 6.3192876 12 6.7148438 L 12 15.285156 C 12 15.680712 12.223 16 12.5 16 C 12.777 16 13 15.680712 13 15.285156 L 13 6.7148438 C 13 6.3192876 12.777 6 12.5 6 z M 8.5 7 C 8.223 7 8 7.3575812 8 7.8007812 L 8 14.199219 C 8 14.642419 8.223 15 8.5 15 C 8.7769999 15 9 14.642419 9 14.199219 L 9 7.8007812 C 9 7.3575812 8.7769999 7 8.5 7 z M 14.5 7 C 14.223 7 14 7.2984508 14 7.6679688 L 14 14.332031 C 14 14.701549 14.223 15 14.5 15 C 14.777 15 15 14.701549 15 14.332031 L 15 7.6679688 C 15 7.2984508 14.777 7 14.5 7 z M 16.5 8 C 16.223 8 16 8.2984508 16 8.6679688 L 16 13.332031 C 16 13.701549 16.223 14 16.5 14 C 16.777 14 17 13.701549 17 13.332031 L 17 8.6679688 C 17 8.2984508 16.777 8 16.5 8 z "
+     id="path826" />
+</svg>

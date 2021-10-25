@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg9" width="22" height="22" version="1.1">
+ <defs id="defs3">
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#cecfce; } .ColorScheme-Highlight { color:#3daee9; }
+  </style>
+ </defs>
+ <path id="path4492" style="fill:#cecfce;fill-opacity:1;opacity:1" d="M 11 3 C 6.5822865 3 3 6.578744 3 11 C 3 15.417713 6.5787438 19 11 19 C 15.417713 19 19 15.421256 19 11 C 19 6.5822866 15.421256 3 11 3 z M 11 4 C 14.868599 4 18 7.1345008 18 11 C 18 14.868599 14.865499 18 11 18 C 7.1314008 18 4 14.865499 4 11 C 4 7.131401 7.1345007 4 11 4 z M 7 8 L 7 14 L 9 14 L 9 11.5 L 10 13 L 12 13 L 13 11.5 L 13 14 L 15 14 L 15 8 L 13 8 L 11 11 L 9 8 L 7 8 z"/>
+ <g id="g862" transform="translate(-420.71429,-524.79074)">
+  <g id="layer1-3" transform="translate(426.71429,-500.57144)">
+   <rect id="rect4153-8-8" style="opacity:1;fill:#f47750;fill-opacity:1;stroke:none" width="8" height="8" x="7" y="1037.36" ry="4"/>
+   <rect id="rect4521" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-linecap:round" width="1" height="4" x="9" y="1039.36" ry="0"/>
+   <rect id="rect4521-3" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-linecap:round" width="1" height="4" x="12" y="1039.36" ry="0"/>
+  </g>
+ </g>
+</svg>
