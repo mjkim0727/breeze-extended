@@ -507,7 +507,7 @@ MaxSize=256
 Size=64
 Context=MimeTypes
 Type=Scalable
-MinSize=64
+MinSize=48
 MaxSize=256
 
 ########## Places
