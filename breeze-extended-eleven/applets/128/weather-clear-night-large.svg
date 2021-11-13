@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="weather-clear-night-large.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:object-nodes="false"
+     inkscape:zoom="1.8932292"
+     inkscape:cx="-90.321871"
+     inkscape:cy="49.122421"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28" />
+  <defs
+     id="defs14">
+    <linearGradient
+       id="0">
+      <stop
+         stop-color="#6f8181"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#334545"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="1">
+      <stop
+         stop-color="#b0b8b8"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#909c9c"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#1"
+       id="2"
+       y1="503.798"
+       x2="0"
+       y2="542.79797"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#0"
+       id="3"
+       y1="4"
+       x2="0"
+       y2="44"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata16" />
+  <g
+     transform="matrix(2.4999988,0,0,2.4999988,-957.42807,-1245.4944)"
+     id="g26">
+    <rect
+       width="39.999973"
+       height="39.999996"
+       x="388.57141"
+       y="503.798"
+       ry="19.999987"
+       fill="url(#2)"
+       rx="19.999987"
+       id="rect18"
+       style="fill:url(#2)" />
+    <g
+       transform="translate(384.57143,499.798)"
+       id="g24">
+      <path
+         d="M 19.144531,4.6132812 C 14.613164,5.7374173 10.71101,8.3901858 8,12.007812 V 13 21 l 4,1 5,9 6,-4 -1,-5 -2,-4 5,-2 5,-3 L 28,8 19,9 18,7 24,6 Z M 33,12 l -3,4 3,4 -1,5 3,8 1,-3 v -5 l 2,3 v 6 l 5,-6 z m -17,1 1,3 -3,3 -1,-3 z m 26,6 -1,2 1,3 1,-2 z m -32,7 v 3 l 3,1 1,-3 z"
+         opacity="0.614"
+         fill="url(#3)"
+         id="path22"
+         style="fill:url(#3)" />
+      <path
+         id="path869"
+         style="opacity:0.2;fill:#000000;stroke-width:1.86144"
+         d="M 113.97656,62.519531 A 50,50 0 0 1 64,112 50,50 0 0 1 14.046875,63 50,50 0 0 0 14,64 a 50,50 0 0 0 50,50 50,50 0 0 0 50,-50 50,50 0 0 0 -0.0234,-1.480469 z"
+         transform="matrix(0.40000019,0,0,0.40000019,-1.6000182,-1.6000009)" />
+    </g>
+  </g>
+</svg>
