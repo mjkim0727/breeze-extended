@@ -4,7 +4,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="open-menu-symbolic.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -18,13 +18,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="12.90625"
-     inkscape:cx="-11.893462"
-     inkscape:cy="10.382567"
-     inkscape:window-width="1852"
-     inkscape:window-height="1053"
-     inkscape:window-x="68"
-     inkscape:window-y="27"
+     inkscape:zoom="25.8125"
+     inkscape:cx="-1.0072639"
+     inkscape:cy="10.692494"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6" />
   <defs
@@ -38,9 +38,9 @@
       </style>
   </defs>
   <path
-     style="fill:currentColor;fill-opacity:1;stroke:none"
-     d="m 2,2.75 v 1.5 H 14 V 2.75 Z M 2,7 V 8.5 H 14 V 7 Z m 0,4.25 v 1.5 h 12 v -1.5 z"
+     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.912871"
+     d="M 3,5 V 5.5 H 13 V 5 Z m 0,3.25 v 0.5 H 13 V 8.25 Z M 3,11.5 V 11.75 12 c 3.3333333,0 6.6666667,0 10,0 V 11.75 11.5 c -3.3333333,0 -6.6666667,0 -10,0 z"
      class="ColorScheme-Text"
      id="path4"
-     sodipodi:nodetypes="ccccccccccccccc" />
+     sodipodi:nodetypes="ccccccccccccccccc" />
 </svg>
