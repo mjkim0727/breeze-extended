@@ -8,7 +8,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="folder.svg"
+   sodipodi:docname="system-file-manager.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -30,9 +30,9 @@
      inkscape:window-height="1019"
      id="namedview17"
      showgrid="true"
-     inkscape:zoom="5.6568545"
-     inkscape:cx="50.734909"
-     inkscape:cy="31.46625"
+     inkscape:zoom="11.313709"
+     inkscape:cx="20.064154"
+     inkscape:cy="34.383066"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -52,7 +52,7 @@
          offset="0"
          id="stop4094" />
       <stop
-         style="stop-color:#f6f2e4;stop-opacity:0.91279846"
+         style="stop-color:#f6f2e4;stop-opacity:1"
          offset="1"
          id="stop4096" />
     </linearGradient>
