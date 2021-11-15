@@ -12,12 +12,14 @@ KDE, GNOME, Xfce, Cinnamon, LXQt, MATE
 
 # Varients
 
-- Default
+- Default(breeze-extended) : Same as Vanila, but some 
+- Alternative(breeze-extended-alt) : Different Folder icons Design
 - Win11(breeze-extended-eleven) : With Win11 Colors
 - macOS Style(breeze-extended-mac) : with macOS Style icons
 - Cinnamon(breeze-extended-cinnamon) : with Cinnamon Colors
 - MATE(breeze-extended-mate) : with MATE-colors
 - GNOME(breeze-extended-gnome) : GNOME icons with Breeze Style
+- Yaru(breeze-extended-yaru) : Ubuntu Yaru icons to Breeze Style
 
 # To-do Lists for breeze-extended
 

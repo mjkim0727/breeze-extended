@@ -18,9 +18,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="25.8125"
-     inkscape:cx="-1.0072639"
-     inkscape:cy="10.692494"
+     inkscape:zoom="12.90625"
+     inkscape:cx="-12.242131"
+     inkscape:cy="17.898305"
      inkscape:window-width="1920"
      inkscape:window-height="1019"
      inkscape:window-x="0"
@@ -38,9 +38,8 @@
       </style>
   </defs>
   <path
-     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.912871"
-     d="M 3,5 V 5.5 H 13 V 5 Z m 0,3.25 v 0.5 H 13 V 8.25 Z M 3,11.5 V 11.75 12 c 3.3333333,0 6.6666667,0 10,0 V 11.75 11.5 c -3.3333333,0 -6.6666667,0 -10,0 z"
+     id="path984"
+     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.29099"
      class="ColorScheme-Text"
-     id="path4"
-     sodipodi:nodetypes="ccccccccccccccccc" />
+     d="M 3 3 L 3 4 L 13 4 L 13 3 L 3 3 z M 3 7 L 3 8 L 13 8 L 13 7 L 3 7 z M 3 11 L 3 12 L 13 12 L 13 11 L 3 11 z " />
 </svg>

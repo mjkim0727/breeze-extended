@@ -31,7 +31,7 @@
      id="namedview12"
      showgrid="true"
      inkscape:zoom="36.32"
-     inkscape:cx="5.6718062"
+     inkscape:cx="5.6993392"
      inkscape:cy="6.965859"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -66,10 +66,10 @@
      style="color:#31363b;opacity:1;fill:#242628;fill-opacity:0.992506;stroke:none"
      id="path1264" />
   <circle
-     style="opacity:1;fill:#242628;fill-opacity:0.99250555;stroke-width:2"
+     style="opacity:1;fill:#242628;fill-opacity:0.992506;stroke-width:2"
      id="path849"
      cx="8"
-     cy="12.999826"
+     cy="14"
      r="1" />
   <path
      d="M 15.797923,5.2531269 C 13.809673,3.264876 11.058462,2.0380003 8.0114617,2.038 4.964462,2.0380002 2.2132498,3.2648772 0.225,5.2531267 L 0.932107,5.9602334 C 2.7396068,4.1527236 5.241462,3.0378942 8.0114617,3.0378932 c 2.7700003,2e-7 5.2718453,1.1148298 7.0793543,2.9223404 z"
