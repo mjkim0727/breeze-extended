@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="gnome-connections-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="16px"
+     inkscape:zoom="16"
+     inkscape:cx="12.9375"
+     inkscape:cy="11.375"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect927"
+     style="fill:#eff0f1;stroke-width:0.817799;fill-opacity:1"
+     d="M 1 1 L 6.6328125 14.597656 L 10.947266 12.810547 L 14.203125 15.205078 L 15.238281 14.167969 L 12.845703 10.910156 L 14.634766 6.5976562 L 13 5.9257812 L 13 7.0019531 L 13.328125 7.1386719 L 11.748047 10.949219 L 13.242188 13.244141 L 2.796875 2.7226562 L 3 2.8085938 L 3 1.8203125 L 1 1 z M 7 1.4160156 L 7 3.4160156 L 9 3.4160156 L 9 1.4160156 L 7 1.4160156 z M 5 2.6425781 L 5 3.4003906 L 4.4140625 3.4003906 L 7 4.484375 L 7 3.4628906 L 5 2.6425781 z M 11 3.4160156 L 11 5.1054688 L 11 5.4003906 L 11.71875 5.4003906 L 13 5.4003906 L 13 3.4160156 L 11 3.4160156 z M 11 5.4003906 L 9.1835938 5.4003906 L 11 6.1621094 L 11 5.4003906 z "
+     transform="scale(0.26458333)" />
+</svg>
