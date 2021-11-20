@@ -20,6 +20,7 @@ KDE, GNOME, Xfce, Cinnamon, LXQt, MATE
 - MATE(breeze-extended-mate) : with MATE-colors
 - GNOME(breeze-extended-gnome) : GNOME icons with Breeze Style
 - Yaru(breeze-extended-yaru) : Ubuntu Yaru icons to Breeze Style
+- Nord(breeze-extended-nord) : with Nord Colors, under construction
 
 # To-do Lists for breeze-extended
 

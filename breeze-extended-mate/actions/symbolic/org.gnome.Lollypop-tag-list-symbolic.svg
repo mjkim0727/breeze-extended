@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="org.gnome.Lollypop-tag-list-symbolic.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="46.9375"
+     inkscape:cx="7.9893475"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#232629;
+      }
+      </style>
+  </defs>
+  <path
+     id="path4"
+     style="fill:currentColor;fill-opacity:1;stroke:none"
+     class="ColorScheme-Text"
+     d="M 8 2 L 2.03125 2.03125 L 2 8 L 8.5 14 L 12 10.5 L 12 8 L 13.539062 8 L 8 2 z M 5.5 4 C 6.328 4 7 4.672 7 5.5 C 7 6.328 6.328 7 5.5 7 C 4.672 7 4 6.328 4 5.5 C 4 4.672 4.672 4 5.5 4 z M 13 9 L 13 10 L 14 10 L 14 9 L 13 9 z M 13 11 L 13 12 L 14 12 L 14 11 L 13 11 z M 13 13 L 13 14 L 14 14 L 14 13 L 13 13 z " />
+</svg>
