@@ -126,11 +126,11 @@
        y2="531.45813">
       <stop
          offset="0"
-         stop-color="#1abc9c"
+         stop-color="#88c0d0"
          id="stop24" />
       <stop
          offset="1"
-         stop-color="#2980b9"
+         stop-color="#8fbcbb"
          id="stop26" />
     </linearGradient>
     <linearGradient
@@ -143,11 +143,11 @@
        y2="528.35034">
       <stop
          offset="0"
-         stop-color="#cc4a5e"
+         stop-color="#81a1c1"
          id="stop29" />
       <stop
          offset="1"
-         stop-color="#aa478a"
+         stop-color="#5e81ac"
          id="stop31" />
     </linearGradient>
     <linearGradient
@@ -163,11 +163,11 @@
        id="j">
       <stop
          offset="0"
-         stop-color="#334545"
+         stop-color="#3b4252"
          id="stop35" />
       <stop
          offset="1"
-         stop-color="#536161"
+         stop-color="#4c566a"
          id="stop37" />
     </linearGradient>
     <linearGradient
@@ -334,7 +334,7 @@
        id="path59"
        d="M 30.823939,30.35625 24.167693,34.2 h 6.656246 z" />
     <path
-       style="fill:#aa478a;stroke-width:3.12694383;stroke-linecap:round"
+       style="fill:#5e81ac;stroke-width:3.12694383;stroke-linecap:round"
        inkscape:connector-curvature="0"
        id="path61"
        d="M 15.652094,21.682883 45.93332,4.2 l -1.5e-5,8.5407 z" />

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16.011"
+   height="16"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="power-profile-performance-symbolic.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="32"
+     inkscape:cx="4.15625"
+     inkscape:cy="8.015625"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10" />
+  <g
+     fill="#232627"
+     id="g10">
+    <path
+       id="path4"
+       style="stroke-width:0.5"
+       d="M 8,8 A 1,1 0 0 0 7,9 1,1 0 0 0 8,10 1,1 0 0 0 8.2753906,9.9609375 L 11.199219,12.884766 11.90625,12.177734 8.96875,9.2402344 A 1,1 0 0 0 9,9 1,1 0 0 0 8,8 Z" />
+    <path
+       d="M 2.9225,3 2.2155,3.707 4.129,5.6215 4.836,4.9145 Z M 0.517,8.3025 v 1 h 2.5 v -1 z m 12.5,0 v 1 h 2.4 v -1 z M 13.1125,3 11.2,4.9145 11.907,5.6215 13.8195,3.707 Z M 3.1285,12.984 2.51,13.6045 2.7167969,14.811406 3.8355,13.691 Z m 9.777,0 -0.707,0.707 1.106188,1.104781 L 13.512,13.5885 Z"
+       style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;solid-opacity:1"
+       color="#232627"
+       font-weight="400"
+       font-family="sans-serif"
+       overflow="visible"
+       fill-rule="evenodd"
+       id="path8"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+    <path
+       id="path1150"
+       style="fill:#232627;stroke-width:1.09501"
+       d="m 8,1 a 8,8 0 0 0 -8,8 8,8 0 0 0 2.7167969,6.003906 l 0.71875,-0.71875 A 7,7 0 0 1 1,9 7,7 0 0 1 7.5175781,2.0332031 v 1.9609375 h 1 V 2.0214844 A 7,7 0 0 1 15,9 7,7 0 0 1 12.583984,14.269531 l 0.71875,0.71875 h 0.002 A 8,8 0 0 0 16,9 8,8 0 0 0 8,1 Z" />
+  </g>
+</svg>

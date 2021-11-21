@@ -5,13 +5,45 @@
    version="1.1"
    id="svg38"
    sodipodi:docname="systemsettings.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs42" />
+     id="defs42">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient952">
+      <stop
+         style="stop-color:#8fbcbb;stop-opacity:1;"
+         offset="0"
+         id="stop948" />
+      <stop
+         style="stop-color:#5e81ac;stop-opacity:1"
+         offset="1"
+         id="stop950" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient952"
+       id="linearGradient954"
+       x1="34.986"
+       y1="12"
+       x2="54.755001"
+       y2="11.667651"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient952"
+       id="linearGradient1056"
+       x1="34.986"
+       y1="20"
+       x2="56"
+       y2="20"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="namedview40"
      pagecolor="#ffffff"
@@ -21,13 +53,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="7.6124464"
-     inkscape:cx="-10.115014"
-     inkscape:cy="-10.443423"
+     inkscape:zoom="30.449786"
+     inkscape:cx="3.6453459"
+     inkscape:cy="5.8621102"
      inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-height="1019"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg38" />
   <linearGradient
@@ -99,7 +131,7 @@
      id="g24">
     <path
        d="m 36,19 c -1.352,-0.02 -1.352,2.02 0,2 h 6 v -2 z"
-       fill="#3daee9"
+       style="fill:url(#linearGradient1056);fill-opacity:1"
        id="path18" />
     <circle
        cx="42"
@@ -118,7 +150,7 @@
      id="g32">
     <path
        d="m 36,11 c -1.352,-0.02 -1.352,2.02 0,2 h 16 v -2 z"
-       fill="#3daee9"
+       style="fill:url(#linearGradient954);fill-opacity:1"
        id="path26" />
     <circle
        cx="52"

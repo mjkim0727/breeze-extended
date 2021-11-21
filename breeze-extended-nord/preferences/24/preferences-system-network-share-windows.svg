@@ -12,8 +12,8 @@
     <stop offset="1" stop-color="#424649"/>
   </linearGradient>
   <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="11" x2="11" y1="18.714286" y2="3.285715">
-    <stop offset="0" stop-color="#1d99f3"/>
-    <stop offset="1" stop-color="#3daee9"/>
+    <stop offset="0" stop-color="#81a1c1"/>
+    <stop offset="1" stop-color="#88c0d0"/>
   </linearGradient>
   <linearGradient id="e" gradientUnits="userSpaceOnUse" x1="2.642857" x2="11.642857" xlink:href="#b" y1="2.642857" y2="11.642857"/>
   <linearGradient id="f" gradientUnits="userSpaceOnUse" x1="11.642857" x2="20.642857" xlink:href="#b" y1="2.642857" y2="11.642857"/>

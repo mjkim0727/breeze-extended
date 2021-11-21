@@ -105,11 +105,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-384.57-499.8)">
       <stop
-         stop-color="#334545"
+         stop-color="#3b4252"
          id="stop22" />
       <stop
          offset="1"
-         stop-color="#536161"
+         stop-color="#4c566a"
          id="stop24" />
     </linearGradient>
     <linearGradient
@@ -175,11 +175,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-384.57,-499.8)">
       <stop
-         style="stop-color:#cc4a5e;stop-opacity:1"
+         style="stop-color:#81a1c1;stop-opacity:1"
          id="stop33" />
       <stop
          offset="1"
-         style="stop-color:#aa478a;stop-opacity:1"
+         style="stop-color:#5e81ac;stop-opacity:1"
          id="stop35" />
     </linearGradient>
     <linearGradient
@@ -191,11 +191,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-384.57,-499.8)">
       <stop
-         stop-color="#1abc9c"
+         stop-color="#88c0d0"
          id="stop38" />
       <stop
          offset="1"
-         stop-color="#2980b9"
+         stop-color="#8fbcbb"
          id="stop40" />
     </linearGradient>
     <linearGradient
@@ -500,9 +500,9 @@
      d="m 48,42 -3.465,2 H 48 Z"
      id="path73"
      inkscape:connector-curvature="0"
-     style="fill:#334545;stroke-width:2" />
+     style="fill:#3b4252;stroke-width:2" />
   <path
-     style="fill:#aa478a;stroke-width:2"
+     style="fill:#5e81ac;stroke-width:2"
      inkscape:connector-curvature="0"
      id="path79"
      d="M 14.97,23.07 48,4 v 9.317 z" />

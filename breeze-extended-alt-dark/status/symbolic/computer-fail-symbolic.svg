@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   height="16"
-   width="16"
+   viewBox="0 0 16 16"
    version="1.1"
+   id="svg5"
    sodipodi:docname="computer-fail-symbolic.svg"
-   inkscape:version="0.92.1 r15371">
-  <defs
-     id="defs10" />
+   width="16"
+   height="16"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,35 +34,31 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="808"
-     id="namedview8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     id="namedview7"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.47457627"
-     inkscape:cy="8"
+     inkscape:zoom="22.627417"
+     inkscape:cx="7.4246212"
+     inkscape:cy="15.224893"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Gnome Symbolic Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title9167">Gnome Symbolic Icon Theme</title>
+     inkscape:current-layer="svg5"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#eff0f1;
+      }
+      </style>
+  </defs>
   <path
-     inkscape:connector-curvature="0"
-     style="color:#31363b;fill:#eff0f1;fill-opacity:1;stroke:none"
-     d="M 4.9999999e-8,2e-7 V 16 H 1 16 V 15 2e-7 H 15 1 Z M 1,1.0000002 H 15 V 15 H 1 Z m 0.9999999,1 v 1 h 1 v -1 z m 1,1 v 2 h 2 v -2 z m 2,0 h 1 v -1 h -1 z m 0,2 v 1 h 1 v -1 z m -2,0 h -1 v 1 h 1 z m 7.0000001,-3 v 1 h 1 v -1 z m 1,1 v 2 h 2 v -2 z m 2,0 h 1 v -1 h -1 z m 0,2 v 1 h 1 v -1 z m -2,0 h -1 v 1 h 1 z m -5.0000001,3 V 10 H 10 V 8.0000002 Z M 10,10 v 2 h 2 v -2 z m 2,2 v 2 h 2 V 12 Z M 5.9999999,10 h -2 v 2 h 2 z m -2,2 h -2 v 2 h 2 z"
+     id="rect4211"
+     style="fill:currentColor;fill-opacity:1;stroke:none"
      class="ColorScheme-Text"
-     id="path7" />
+     d="M 0 1 L 0 12 L 1 12 L 7 12 L 7 14 L 4 14 L 4 15 L 12 15 L 12 14 L 9 14 L 9 12 L 15 12 L 16 12 L 16 1 L 15 1 L 1 1 L 0 1 z M 1 2 L 15 2 L 15 11 L 1 11 L 1 2 z M 5 4 L 5 6 L 6 6 L 6 4 L 5 4 z M 10 4 L 10 6 L 11 6 L 11 4 L 10 4 z M 8 8 C 7.2525661 8.0026221 6.0728916 8.1168668 5 9.1347656 L 5.6894531 9.8242188 C 6.5357336 9.0842151 7.2553682 9.0051805 8 9 C 8.7446318 9.005185 9.4642663 9.0842157 10.310547 9.8242188 L 11 9.1347656 C 9.927108 8.1168668 8.7474339 8.00262 8 8 z " />
 </svg>

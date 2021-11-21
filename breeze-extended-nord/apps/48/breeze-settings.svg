@@ -17,8 +17,8 @@
    <stop offset="1" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="e" y1="542.22" x1="398.09" y2="524.9" x2="394" gradientUnits="userSpaceOnUse" gradientTransform="translate(-384.57-499.8)">
-   <stop stop-color="#334545"/>
-   <stop offset="1" stop-color="#536161"/>
+   <stop stop-color="#3b4252"/>
+   <stop offset="1" stop-color="#4c566a"/>
   </linearGradient>
   <linearGradient xlink:href="#e" id="f" y1="586.49" x1="431.31" y2="582.07" x2="439.57" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1 0 0 1 454.57-539.8)"/>
   <linearGradient xlink:href="#e" id="g" y1="577.36" x1="430.57" y2="591.33" x2="423.75" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1 0 0 1 454.57-539.8)"/>
@@ -27,12 +27,12 @@
   <linearGradient xlink:href="#e" id="j" y1="581.87" x1="406.54" y2="572.68" x2="423.32" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1 0 0 1 454.57-539.8)"/>
   <linearGradient xlink:href="#e" id="k" y1="568.8" x1="431.57" y2="562.8" x2="439.57" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1 0 0 1 839.14-40)"/>
   <linearGradient id="l" y1="521.63" x1="404.05" y2="528.35" x2="430.74" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#cc4a5e"/>
-   <stop offset="1" stop-color="#aa478a"/>
+   <stop stop-color="#81a1c1"/>
+   <stop offset="1" stop-color="#5e81ac"/>
   </linearGradient>
   <linearGradient id="m" y1="503.08" x1="418.17" y2="531.46" x2="384.57" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#1abc9c"/>
-   <stop offset="1" stop-color="#2980b9"/>
+   <stop stop-color="#88c0d0"/>
+   <stop offset="1" stop-color="#8fbcbb"/>
   </linearGradient>
   <linearGradient id="n" x1="384.57" x2="432.57" gradientUnits="userSpaceOnUse">
    <stop stop-color="#884d2c"/>
@@ -56,7 +56,7 @@
    <path fill="#334545" d="m432.57 541.8l-3.465 2h3.465z"/>
   </g>
   <path fill="#ffc169" fill-rule="evenodd" d="m384.57 541.92v1.883h2.285z"/>
-  <path fill="#aa478a" stroke-width="2" d="m399.54 522.87l33.03-19.07v9.317z"/>
+  <path fill="#5e81ac" stroke-width="2" d="m399.54 522.87l33.03-19.07v9.317z"/>
   <g transform="translate(50)">
    <g transform="translate(-50)">
     <rect width="32" x="392.57" y="507.8" fill="url(#c)" rx="0" height="28"/>
