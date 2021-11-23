@@ -1,11 +1,11 @@
 <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <linearGradient id="a">
-        <stop stop-color="#2a7fff" offset="0"/>
-        <stop stop-color="#0cf" offset="1"/>
+        <stop stop-color="#81a1c1" offset="0"/>
+        <stop stop-color="#8fbcbb" offset="1"/>
     </linearGradient>
     <linearGradient id="b" x1="80.7233" x2="141.40515" y1="192.15626" y2="252.83811" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#0055d4" offset="0"/>
-        <stop stop-color="#06f" stop-opacity="0" offset="1"/>
+        <stop stop-color="#5e81ac" offset="0"/>
+        <stop stop-color="#5e81ac" stop-opacity="0" offset="1"/>
     </linearGradient>
     <linearGradient id="c" x1="61.163261" x2="64.927658" y1="105.1096" y2="109.0449" gradientUnits="userSpaceOnUse">
         <stop stop-color="#e6e6e6" offset="0"/>
@@ -36,8 +36,8 @@
     </linearGradient>
     <linearGradient id="l" x1="220.30621" x2="54.439178" y1="207.9187" y2="42.051666" gradientTransform="matrix(.44648217 0 0 .43479451 59.664951 148.26025)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
     <linearGradient id="m" x1="68.210472" x2="148.52051" y1="177.75131" y2="258.06134" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#59f" offset="0"/>
-        <stop stop-color="#06f" offset="1"/>
+        <stop stop-color="#81a1c1" offset="0"/>
+        <stop stop-color="#5e81ac" offset="1"/>
     </linearGradient>
     <g transform="matrix(.35834457 0 0 .35834465 -14.588903 -53.834451)">
         <circle cx="107.68657" cy="217.20557" r="55.812187" fill="url(#m)" stroke-width=".046091"/>
