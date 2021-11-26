@@ -7,8 +7,8 @@
    viewBox="0 0 4.2333332 4.2333335"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="rhythmbox.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="rhythmbox-symbolic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,24 +20,30 @@
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      inkscape:document-units="px"
-     showgrid="false"
+     showgrid="true"
      units="px"
      height="16px"
-     inkscape:zoom="24.5"
-     inkscape:cx="0.83673469"
-     inkscape:cy="8.7346939"
+     inkscape:zoom="34.648232"
+     inkscape:cx="6.4938378"
+     inkscape:cy="9.7407568"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1019"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="svg5"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1418" />
+  </sodipodi:namedview>
   <defs
      id="defs2" />
   <path
      id="rect846"
-     style="fill:#232627;stroke-width:0.279982"
-     d="M 0.79374999,0.52916666 V 3.7041666 H 3.4395833 V 0.52916666 Z M 1.0583333,0.79374999 H 3.175 V 3.4395833 H 1.0583333 Z M 2.1166666,1.0583333 a 0.79374994,0.79374994 0 0 0 -0.79375,0.79375 0.79374994,0.79374994 0 0 0 0.79375,0.79375 0.79374994,0.79374994 0 0 0 0.79375,-0.79375 0.79374994,0.79374994 0 0 0 -0.79375,-0.79375 z m 0,0.2645833 A 0.52916669,0.52916669 0 0 1 2.6458333,1.8520833 0.52916669,0.52916669 0 0 1 2.1166666,2.38125 0.52916669,0.52916669 0 0 1 1.5875,1.8520833 0.52916669,0.52916669 0 0 1 2.1166666,1.3229166 Z m 0,0.2645834 A 0.26458336,0.26458336 0 0 0 1.8520833,1.8520833 0.26458336,0.26458336 0 0 0 2.1166666,2.1166666 0.26458336,0.26458336 0 0 0 2.38125,1.8520833 0.26458336,0.26458336 0 0 0 2.1166666,1.5875 Z" />
+     style="fill:#232627;stroke-width:1.0582"
+     d="M 0 0 L 0 16 L 16 16 L 16 0 L 0 0 z M 1 1 L 15 1 L 15 15 L 1 15 L 1 1 z M 2 2 L 2 3 L 3 3 L 3 2 L 2 2 z M 13 2 L 13 3 L 14 3 L 14 2 L 13 2 z M 8 3 C 5.2385762 2.9999998 2.9999998 5.2385762 3 8 C 2.9999998 10.761424 5.2385762 13 8 13 C 10.761424 13 13 10.761424 13 8 C 13 5.2385762 10.761424 2.9999998 8 3 z M 8 4 C 10.209139 3.9999998 12 5.7908609 12 8 C 12 10.209139 10.209139 12 8 12 C 5.7908609 12 3.9999998 10.209139 4 8 C 3.9999998 5.7908609 5.7908609 3.9999998 8 4 z M 8 5 C 6.3431457 4.9999999 4.9999999 6.3431457 5 8 C 4.9999999 9.6568543 6.3431457 11 8 11 C 9.6568543 11 11 9.6568543 11 8 C 11 6.3431457 9.6568543 4.9999999 8 5 z M 2 13 L 2 14 L 3 14 L 3 13 L 2 13 z M 13 13 L 13 14 L 14 14 L 14 13 L 13 13 z "
+     transform="scale(0.26458333)" />
 </svg>
