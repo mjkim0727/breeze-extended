@@ -13,7 +13,7 @@ KDE, GNOME, Xfce, Cinnamon, LXQt, MATE
 # Varients
 
 - Default(breeze-extended) : Same as Vanila, but some 
-- Alternative(breeze-extended-alt) : Different Folder icons Design
+- Alternative(breeze-extended-alt) : Different Designs
 - Win11(breeze-extended-eleven) : With Win11 Colors
 - macOS Style(breeze-extended-mac) : with macOS Style icons
 - Cinnamon(breeze-extended-cinnamon) : with Cinnamon Colors

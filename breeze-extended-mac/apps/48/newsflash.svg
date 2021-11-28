@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="newsflash.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="6.0619675"
+     inkscape:cx="-2.80437"
+     inkscape:cy="17.073665"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5797">
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1;"
+         offset="0"
+         id="stop5793" />
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:0;"
+         offset="1"
+         id="stop5795" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3152">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3148" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3150" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2192">
+      <stop
+         style="stop-color:#dea437;stop-opacity:1"
+         offset="0"
+         id="stop2188" />
+      <stop
+         style="stop-color:#db6c26;stop-opacity:1"
+         offset="1"
+         id="stop2190" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2192"
+       id="linearGradient2194"
+       x1="12.7"
+       y1="-5.5631002e-08"
+       x2="-5.5631002e-08"
+       y2="12.7"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3152"
+       id="linearGradient3154"
+       x1="5.5018172"
+       y1="3.6362958"
+       x2="9.5249996"
+       y2="7.6389809"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1635058,0,0,1.0906741,-1.9034798,-1.055597)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5797"
+       id="linearGradient5799"
+       x1="5.8208332"
+       y1="2.9104166"
+       x2="5.8208332"
+       y2="10.847917"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-0.2645833)" />
+  </defs>
+  <rect
+     style="fill:url(#linearGradient2194);fill-opacity:1;stroke-width:0.357436"
+     id="rect846"
+     width="10.583333"
+     height="10.583333"
+     x="1.0583333"
+     y="1.0583333" />
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.207443"
+     id="rect2926"
+     width="10.583333"
+     height="0.26458332"
+     x="1.0583333"
+     y="11.377083" />
+  <path
+     id="rect3066"
+     style="opacity:0.2;fill:url(#linearGradient3154);stroke-width:0.298053"
+     d="M 6.35,5.55625 7.4083333,3.175 11.641666,7.4083333 v 4.2333327 l -4.7624993,10e-7 L 4.7625,9.5249999 8.2020833,5.55625 Z"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     id="rect3480"
+     style="fill:url(#linearGradient5799);fill-opacity:1;stroke-width:0.388131"
+     d="M 5.55625,3.175 H 7.4083333 L 6.35,5.55625 H 8.2020833 L 4.7625,9.5249999 5.55625,6.6145833 H 4.4979167 Z"
+     sodipodi:nodetypes="cccccccc" />
+</svg>
