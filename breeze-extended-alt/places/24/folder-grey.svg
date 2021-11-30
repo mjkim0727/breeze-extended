@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="folder-grey.svg"
+   sodipodi:docname="folder.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,59 +27,78 @@
      units="px"
      height="22px"
      inkscape:zoom="26.452222"
-     inkscape:cx="10.887554"
-     inkscape:cy="12.758853"
+     inkscape:cx="5.5571891"
+     inkscape:cy="12.777755"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
-     inkscape:window-y="31"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="svg5"
+     width="24px" />
   <defs
      id="defs2">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      </style>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient2546">
+       id="linearGradient3861">
       <stop
-         style="stop-color:#a7afb4;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         id="stop2542" />
+         id="stop3857" />
       <stop
-         style="stop-color:#bdc3c7;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
-         id="stop2544" />
+         id="stop3859" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2546"
-       id="linearGradient2548"
-       x1="4.7624998"
-       y1="5.5562496"
-       x2="4.7624998"
-       y2="1.5875"
+       xlink:href="#linearGradient3861"
+       id="linearGradient3863"
+       x1="3.1749997"
+       y1="1.3229167"
+       x2="3.1749997"
+       y2="5.291667"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0.26458337)" />
+       gradientTransform="translate(0.26458337,0.26458335)" />
   </defs>
   <path
      id="rect846"
-     style="fill:#6e6e6e;stroke-width:0.300229"
-     d="M 0.26458337,0.52916667 H 2.3812501 L 3.175,1.5874999 6.0854166,1.5875 V 4.4979165 H 0.26458337 Z"
+     style="fill:#a7afb4;fill-opacity:1;stroke-width:0.300229"
+     class="ColorScheme-Highlight"
+     d="M 0.26458337,0.52916668 H 2.3812501 L 3.175,1.5874999 6.0854166,1.5875 V 5.8208334 H 0.26458333 Z"
      sodipodi:nodetypes="ccccccc" />
   <path
      id="rect2061"
-     style="fill:url(#linearGradient2548);fill-opacity:1;stroke-width:0.264583"
+     style="opacity:0.3;fill:url(#linearGradient3863);fill-opacity:1;stroke-width:0.264583"
      d="m 0.26458334,2.38125 2.11666676,10e-8 L 3.175,1.5874999 6.0854166,1.5875 V 5.8208333 H 0.26458334 Z"
      sodipodi:nodetypes="ccccccc" />
-  <path
-     id="rect1104"
-     style="opacity:0.2;fill:#ffffff;stroke-width:0.256809"
-     d="m 0.26458334,2.38125 2.11666676,10e-8 L 3.175,1.5874999 2.6458334,2.6458331 H 0.26458337 Z"
-     sodipodi:nodetypes="cccccc" />
   <rect
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.288445"
+     style="opacity:0.2;fill:currentColor;fill-opacity:1;stroke-width:0.288445"
+     class="ColorScheme-Text"
      id="rect3508"
      width="5.8208332"
      height="0.26458332"
      x="0.26458332"
      y="5.5562501" />
+  <path
+     id="rect3382"
+     style="opacity:0.4;fill:currentColor;fill-opacity:0.994795;stroke-width:0.264583"
+     class="ColorScheme-Text"
+     d="M 0.26458337,0.52916667 H 2.38125 L 3.175,1.5874999 2.38125,2.3812501 H 0.26458337 Z"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     id="rect1104"
+     style="opacity:0.2;fill:#ffffff;stroke-width:0.256809"
+     d="m 0.26458334,2.38125 2.11666676,10e-8 L 3.175,1.5874999 2.6458334,2.6458331 H 0.26458337 Z"
+     sodipodi:nodetypes="cccccc" />
 </svg>

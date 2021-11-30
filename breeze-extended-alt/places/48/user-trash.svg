@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1007"
      id="namedview73"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="25.694915"
-     inkscape:cy="33.152542"
+     inkscape:zoom="16"
+     inkscape:cx="13.9375"
+     inkscape:cy="27.75"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,6 +53,26 @@
   </sodipodi:namedview>
   <defs
      id="defs12">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      </style>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1482">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1478" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop1480" />
+    </linearGradient>
     <radialGradient
        id="l"
        cx="19.76264"
@@ -110,56 +130,40 @@
        y2="516.79797" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1459"
-       id="linearGradient2539"
-       x1="51"
-       y1="40"
-       x2="45"
-       y2="34"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.75,0,0,0.66666667,-1.5,4)" />
+       xlink:href="#linearGradient1482"
+       id="linearGradient1484"
+       x1="17"
+       y1="33"
+       x2="10"
+       y2="25"
+       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient1459">
-      <stop
-         style="stop-color:#6cc1ef;stop-opacity:1"
-         offset="0"
-         id="stop1455" />
-      <stop
-         style="stop-color:#22a3e6;stop-opacity:1"
-         offset="1"
-         id="stop1457" />
-    </linearGradient>
+       xlink:href="#linearGradient1482"
+       id="linearGradient1970"
+       x1="24"
+       y1="33"
+       x2="17"
+       y2="25"
+       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1459"
-       id="linearGradient2531"
-       x1="42"
-       y1="40"
-       x2="34"
-       y2="32"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.75,0,0,0.66666667,-1,4)" />
+       xlink:href="#linearGradient1482"
+       id="linearGradient2618"
+       x1="31"
+       y1="33"
+       x2="24"
+       y2="25"
+       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1459"
-       id="linearGradient2523"
-       x1="30"
-       y1="40"
-       x2="22"
-       y2="32"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.75,0,0,0.66666667,1,4)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1459"
-       id="linearGradient1461"
-       x1="20"
-       y1="40"
-       x2="12"
-       y2="32"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.75,0,0,0.66666667,1.5,4)" />
+       xlink:href="#linearGradient1482"
+       id="linearGradient2882"
+       x1="38"
+       y1="33"
+       x2="31"
+       y2="25"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <linearGradient
      id="a">
@@ -322,24 +326,44 @@
      sodipodi:nodetypes="csssscssc" />
   <path
      id="rect984"
-     style="fill:url(#linearGradient1461);fill-opacity:1;stroke-width:0.707106"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.707106"
+     class="ColorScheme-Highlight"
      d="m 13.5,16 c 0.949081,0 1.5,0.761334 1.5,1.5 v 21 C 15,39.238666 14.419786,40 13.5,40 12.53815,40 12,39.238666 12,38.5 v -21 C 12,16.761334 12.556679,16 13.5,16 Z"
      sodipodi:nodetypes="sssssss" />
   <path
      id="rect986"
-     style="fill:url(#linearGradient2523);fill-opacity:1;stroke-width:0.707107"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.707107"
+     class="ColorScheme-Highlight"
      d="m 20.5,16 c 0.952159,0 1.5,0.761334 1.5,1.5 v 21 C 22,39.238666 21.358907,40 20.5,40 19.574985,40 19,39.238666 19,38.5 v -21 C 19,16.761334 19.546085,16 20.5,16 Z"
      sodipodi:nodetypes="sssssss" />
   <path
      id="rect988"
-     style="fill:url(#linearGradient2531);fill-opacity:1;stroke-width:0.707106"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.707106"
+     class="ColorScheme-Highlight"
      d="m 27.5,16 c 0.926996,0 1.5,0.761334 1.5,1.5 v 21 C 29,39.238666 28.414473,40 27.5,40 26.546155,40 26,39.238666 26,38.5 v -21 C 26,16.761334 26.544774,16 27.5,16 Z"
      sodipodi:nodetypes="sssssss" />
   <path
      id="rect990"
-     style="fill:url(#linearGradient2539);fill-opacity:1;stroke-width:0.707106"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.707106"
+     class="ColorScheme-Highlight"
      d="m 34.5,16 c 0.932146,0 1.5,0.761334 1.5,1.5 v 21 C 36,39.238666 35.524724,40 34.5,40 33.478256,40 33,39.238666 33,38.5 v -21 C 33,16.761334 33.536675,16 34.5,16 Z"
      sodipodi:nodetypes="sssssss" />
+  <path
+     id="rect989"
+     style="opacity:0.4;fill:url(#linearGradient1484);fill-opacity:1"
+     d="m 13.5,16 c 0.831,0 1.5,0.669 1.5,1.5 v 21 C 15,39.331 14.331,40 13.5,40 12.669,40 12,39.331 12,38.5 v -21 C 12,16.669 12.669,16 13.5,16 Z" />
+  <path
+     id="rect1151"
+     style="opacity:0.4;fill:url(#linearGradient1970);fill-opacity:1"
+     d="m 20.5,16 c 0.831,0 1.5,0.669 1.5,1.5 v 21 C 22,39.331 21.331,40 20.5,40 19.669,40 19,39.331 19,38.5 v -21 C 19,16.669 19.669,16 20.5,16 Z" />
+  <path
+     id="rect1214"
+     style="opacity:0.4;fill:url(#linearGradient2618);fill-opacity:1"
+     d="m 27.5,16 c 0.831,0 1.5,0.669 1.5,1.5 v 21 C 29,39.331 28.331,40 27.5,40 26.669,40 26,39.331 26,38.5 v -21 C 26,16.669 26.669,16 27.5,16 Z" />
+  <path
+     id="rect1357"
+     style="opacity:0.4;fill:url(#linearGradient2882);fill-opacity:1"
+     d="m 34.5,16 c 0.831,0 1.5,0.669 1.5,1.5 v 21 C 36,39.331 35.331,40 34.5,40 33.669,40 33,39.331 33,38.5 v -21 C 33,16.669 33.669,16 34.5,16 Z" />
   <path
      d="m 10,14 v 3.818182 L 38,40 V 14 Z"
      fill="url(#f)"
