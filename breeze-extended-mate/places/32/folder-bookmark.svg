@@ -1,24 +1,80 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="32" version="1.1" xmlns="http://www.w3.org/2000/svg" height="32" viewBox="0 0 32 32" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <defs id="defs5455">
-  <linearGradient inkscape:collect="always" id="linearGradient4172-5">
-   <stop style="stop-color:#87a252" id="stop4174-6"/>
-   <stop offset="1" style="stop-color:#a9cd67" id="stop4176-6"/>
-  </linearGradient>
-  <linearGradient inkscape:collect="always" id="linearGradient4342" xlink:href="#linearGradient4172-5" y1="29" y2="8" gradientUnits="userSpaceOnUse" x2="0"/>
- </defs>
- <metadata id="metadata5458"/>
- <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="matrix(1 0 0 1 -384.57143 -515.798)">
-  <g inkscape:label="Capa 1" id="layer1-4" transform="matrix(1 0 0 1 -0.000006 0)">
-   <path inkscape:connector-curvature="0" style="fill:#6d8342;fill-rule:evenodd" id="path4308" d="m 386.57144,518.798 0,7 0,1 28,0 0,-6 -14.00001,0 -2,-2 z"/>
-   <path inkscape:connector-curvature="0" style="fill-opacity:0.235294;fill-rule:evenodd" id="path4306" d="m 397.57143,523.798 -1.99999,1 -9,0 0,1 6.99999,0 3,0 z"/>
-   <path inkscape:connector-curvature="0" style="fill:url(#linearGradient4342)" id="rect4294" d="m 13,8 -2,2 -9,0 -1,0 0,19 11,0 1,0 18,0 0,-21 -18,0 z" transform="matrix(1 0 0 1 384.57143 515.798)"/>
-   <path inkscape:connector-curvature="0" style="fill:#ffffff;fill-opacity:0.235294;fill-rule:evenodd" id="path4304" d="m 397.57143,523.798 -2,2 -10,0 0,1 11,0 z"/>
-   <path inkscape:connector-curvature="0" style="fill:#ffffff;fill-opacity:0.235294;fill-rule:evenodd" id="path4310" d="m 398.57143,518.798 1,3 15.00001,0 0,-1 -14.00001,0 z"/>
-   <rect width="30" x="385.57144" y="543.79797" height="1" style="fill-opacity:0.235294" id="rect4292"/>
-  </g>
-  <path inkscape:connector-curvature="0" style="fill:#677c3e" id="rect4186" d="m 13,13 v 10 l 3,-1 3,1 V 13 Z m 1,1 h 4 v 7.7 L 16,21 14,21.7 Z" transform="matrix(1 0 0 1 384.57143 515.798)"/>
- </g>
+
+<svg
+   width="32"
+   version="1.1"
+   height="32"
+   viewBox="0 0 32 32"
+   id="svg17"
+   sodipodi:docname="folder-bookmark.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="19.6875"
+     inkscape:cx="14.450794"
+     inkscape:cy="18.768254"
+     inkscape:window-width="1920"
+     inkscape:window-height="997"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17" />
+  <defs
+     id="defs5455" />
+  <metadata
+     id="metadata5458" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#6d8342;fill-rule:evenodd"
+     id="path4308"
+     d="m 2,3 v 7 1 H 30 V 5 H 15.99999 l -2,-2 z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill-opacity:0.235294;fill-rule:evenodd"
+     id="path4306"
+     d="M 12.99999,8 11,9 H 2 v 1 h 6.99999 3 z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#87a252;fill-opacity:1"
+     id="rect4294"
+     d="m 12.99999,8 -2,2 h -9 -1 v 19 h 11 1 18 V 8 Z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:0.235294;fill-rule:evenodd"
+     id="path4310"
+     d="m 13.99999,3 1,3 H 30 V 5 H 15.99999 Z" />
+  <path
+     id="rect976"
+     style="opacity:0.1;fill:#eff0f1;fill-opacity:1;stroke-width:0.5;stroke-linejoin:round"
+     d="m 13,7.99997 h 18 v 21 H 1 L 0.99999,10 h 10 z"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:0.235294;fill-rule:evenodd"
+     id="path4304"
+     d="m 12.99999,8 -2,2 h -10 v 1 h 11 z" />
+  <rect
+     width="30"
+     x="1.0000017"
+     y="27.999973"
+     height="1"
+     style="fill-opacity:0.235294"
+     id="rect4292" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#677c3e"
+     id="rect4186"
+     d="m 13,13 v 10 l 3,-1 3,1 V 13 Z m 1,1 h 4 v 7.7 L 16,21 14,21.7 Z" />
 </svg>

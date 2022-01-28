@@ -11,7 +11,6 @@
    sodipodi:docname="folder-open.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -27,47 +26,32 @@
      units="px"
      height="16px"
      inkscape:zoom="18.185903"
-     inkscape:cx="0.38491352"
-     inkscape:cy="13.66443"
+     inkscape:cx="-3.2717649"
+     inkscape:cy="11.299961"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="999"
      inkscape:window-x="0"
-     inkscape:window-y="31"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
      id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3332">
-      <stop
-         style="stop-color:#3daee9;stop-opacity:1;"
-         offset="0"
-         id="stop3328" />
-      <stop
-         style="stop-color:#6cc1ef;stop-opacity:1"
-         offset="1"
-         id="stop3330" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3332"
-       id="linearGradient3334"
-       x1="3.1750002"
-       y1="4.2333331"
-       x2="3.1750002"
-       y2="1.0583333"
-       gradientUnits="userSpaceOnUse" />
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+    </style>
   </defs>
   <path
      id="rect846"
-     style="fill:#147eb8;fill-opacity:1;stroke-width:0.271211"
-     d="M 0,0.26458333 H 1.5875 L 2.1166667,1.0583333 H 4.2333336 V 3.175 H 0 Z"
-     sodipodi:nodetypes="ccccccc" />
-  <path
-     id="rect1052"
-     style="fill:url(#linearGradient3334);fill-opacity:1;stroke-width:0.536891"
-     d="M -1.3823242e-7,2.1166667 H 1.5875 L 2.1166667,1.5875 h 2.1166667 l 2e-7,2.38125 H 4.9414063e-8 Z"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.271211"
+     class="ColorScheme-Highlight"
+     d="M 0,0.26458333 H 1.5875 L 2.1166667,1.0583333 h 2.1166669 l 1e-7,2.9104167 H 7.4121097e-8 Z"
      sodipodi:nodetypes="ccccccc" />
   <path
      id="rect4173"
@@ -81,4 +65,9 @@
      height="0.26458335"
      x="7.4121097e-08"
      y="3.7041667" />
+  <path
+     id="rect1163"
+     style="opacity:0.6;fill-opacity:0.4;stroke-width:0.264583"
+     d="M 0,0.26458332 H 1.5875 L 2.1166667,1.0583333 h 2.1166669 l -2e-7,0.5291667 H 2.1166668 L 1.5875,2.1166666 H 0 Z"
+     sodipodi:nodetypes="ccccccccc" />
 </svg>

@@ -34,16 +34,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="997"
      id="namedview73"
      showgrid="true"
-     inkscape:zoom="12.53125"
-     inkscape:cx="32"
-     inkscape:cy="19.23192"
+     inkscape:zoom="8.8609319"
+     inkscape:cx="12.921891"
+     inkscape:cy="38.991384"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg71"
+     inkscape:current-layer="g1277"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
@@ -63,58 +63,6 @@
          offset="1"
          id="stop1999" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1355"
-       id="linearGradient1357"
-       x1="20"
-       y1="42"
-       x2="12"
-       y2="30"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.75,0,0,1,3.5,0)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1355">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop1351" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop1353" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1355"
-       id="linearGradient1523"
-       x1="30"
-       y1="42"
-       x2="22"
-       y2="30"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.75,0,0,1,5,0)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1355"
-       id="linearGradient1851"
-       x1="42"
-       y1="42"
-       x2="34"
-       y2="30"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.75,0,0,1,5,0)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1355"
-       id="linearGradient2051"
-       x1="52"
-       y1="42"
-       x2="44"
-       y2="30"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.75,0,0,1,6.5,0)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2001"
@@ -175,40 +123,7 @@
   <g
      id="g1277"
      style="opacity:0.4"
-     transform="translate(3,1)">
-    <rect
-       style="opacity:1;fill:url(#linearGradient1357);fill-opacity:1;stroke-width:0.866025"
-       id="rect1145"
-       width="3"
-       height="36"
-       x="14"
-       y="18"
-       ry="1.5" />
-    <rect
-       style="opacity:1;fill:url(#linearGradient1523);fill-opacity:1;stroke-width:0.866025"
-       id="rect1169"
-       width="3"
-       height="36"
-       x="23"
-       y="18"
-       ry="1.5" />
-    <rect
-       style="opacity:1;fill:url(#linearGradient1851);fill-opacity:1;stroke-width:0.866025"
-       id="rect1171"
-       width="3"
-       height="36"
-       x="32"
-       y="18"
-       ry="1.5" />
-    <rect
-       style="opacity:1;fill:url(#linearGradient2051);fill-opacity:1;stroke-width:0.866025"
-       id="rect1173"
-       width="3"
-       height="36"
-       x="41"
-       y="18"
-       ry="1.5" />
-  </g>
+     transform="translate(3,1)" />
   <path
      d="m 12,16 v 0.5 L 52,17 v -1 z"
      fill="url(#f)"

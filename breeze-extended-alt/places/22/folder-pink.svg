@@ -11,7 +11,6 @@
    sodipodi:docname="folder-pink.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -27,10 +26,10 @@
      units="px"
      height="22px"
      inkscape:zoom="26.452222"
-     inkscape:cx="12.324106"
-     inkscape:cy="15.197211"
+     inkscape:cx="12.305204"
+     inkscape:cy="15.178309"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="999"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -48,37 +47,11 @@
         color:#3daee9;
       }
       </style>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3861">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop3857" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop3859" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3861"
-       id="linearGradient3863"
-       x1="3.1749997"
-       y1="1.3229167"
-       x2="3.1749997"
-       y2="5.291667"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      id="rect846"
      style="fill:#ed7dea;fill-opacity:1;stroke-width:0.300229"
      d="M 5.0574417e-8,0.26458335 H 2.1166668 l 0.7937499,1.05833325 2.9104166,10e-8 V 5.5562501 H 1.0574417e-8 Z"
-     sodipodi:nodetypes="ccccccc" />
-  <path
-     id="rect2061"
-     style="opacity:0.3;fill:url(#linearGradient3863);fill-opacity:1;stroke-width:0.264583"
-     d="M 2.0574417e-8,2.1166667 2.1166668,2.1166668 2.9104167,1.3229166 l 2.9104166,10e-8 V 5.55625 H 2.0574417e-8 Z"
      sodipodi:nodetypes="ccccccc" />
   <rect
      style="opacity:0.2;fill:currentColor;fill-opacity:1;stroke-width:0.288445"

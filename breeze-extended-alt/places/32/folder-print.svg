@@ -8,10 +8,9 @@
    viewBox="0 0 32 32"
    id="svg2"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="folder.svg"
+   sodipodi:docname="folder-print.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -31,8 +30,8 @@
      id="namedview17"
      showgrid="true"
      inkscape:zoom="11.313709"
-     inkscape:cx="10.960155"
-     inkscape:cy="12.020815"
+     inkscape:cx="11.004349"
+     inkscape:cy="12.065009"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -55,30 +54,6 @@
       }
       </style>
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient2051">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop2047" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop2049" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1669">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop1665" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop1667" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient4172-7-9">
       <stop
          style="stop-color:#4183d7"
@@ -88,24 +63,6 @@
          style="stop-color:#5b94df"
          id="stop4176-4-6" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1669"
-       id="linearGradient1671"
-       x1="397.57144"
-       y1="517.79797"
-       x2="397.57144"
-       y2="530.79797"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2051"
-       id="linearGradient2053"
-       x1="417.57144"
-       y1="522.79797"
-       x2="417.57144"
-       y2="545.79797"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata5458">
@@ -131,24 +88,13 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
     <path
-       id="rect1087"
-       style="opacity:0.2;fill:url(#linearGradient1671);fill-opacity:1"
-       d="m 385.57144,517.79797 h 12 l 2.99999,4.00003 h 15 v 1 h -15 l -2.99999,3.99997 h -12 z"
-       sodipodi:nodetypes="ccccccccc" />
-    <path
-       style="fill:url(#linearGradient2053);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.3"
-       d="m 385.57143,526.798 h 12 l 3,-4 h 15 l -1e-5,23 h -29.99999 z"
-       id="path4186"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
-    <path
        inkscape:connector-curvature="0"
        style="fill-opacity:0.235294"
        id="path4192"
        d="m 385.57143,544.798 v 1 h 0.51725 28.96551 0.51724 v -1 h -0.51724 -28.96551 z" />
     <path
        id="rect1087-3"
-       style="opacity:0.2;fill:#000000"
+       style="opacity:0.3;fill:#000000"
        d="m 385.57143,517.798 h 12 l 2.99999,4.00003 h 15 v 1 h -15 l -2.99999,3.99997 h -12 z"
        sodipodi:nodetypes="ccccccccc" />
     <path
@@ -171,10 +117,10 @@
        d="m 397.57143,517.798 3,5 h 15 v -1 h -15 z" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:currentColor;fill-opacity:0.5"
+       style="fill:currentColor;fill-opacity:0.6"
        class="ColorScheme-Text"
        id="rect4184"
-       d="M 12 13 L 12 14 L 12 16 L 11 16 L 11 17 L 11 20 L 11 21 L 12 21 L 13 21 L 13 22 L 13 23 L 18 23 L 19 23 L 19 21 L 21 21 L 21 20 L 21 16 L 20 16 L 20 13 L 12 13 z M 13 14 L 19 14 L 19 16 L 13 16 L 13 14 z M 12 17 L 18 17 L 18 18 L 19 18 L 19 17 L 20 17 L 20 20 L 19 20 L 19 19 L 13 19 L 13 20 L 12 20 L 12 17 z M 14 21 L 18 21 L 18 22 L 14 22 L 14 21 z "
-       transform="matrix(1 0 0 1 384.57143 515.798)" />
+       d="m 12,13 v 1 2 h -1 v 1 3 1 h 1 1 v 1 1 h 5 1 v -2 h 2 v -1 -4 h -1 v -3 z m 1,1 h 6 v 2 h -6 z m -1,3 h 6 v 1 h 1 v -1 h 1 v 3 h -1 v -1 h -6 v 1 h -1 z m 2,4 h 4 v 1 h -4 z"
+       transform="translate(384.57143,515.798)" />
   </g>
 </svg>

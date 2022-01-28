@@ -8,10 +8,9 @@
    viewBox="0 0 32 32"
    id="svg2"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="folder.svg"
+   sodipodi:docname="folder-green.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -31,8 +30,8 @@
      id="namedview17"
      showgrid="true"
      inkscape:zoom="11.313709"
-     inkscape:cx="10.960155"
-     inkscape:cy="12.020815"
+     inkscape:cx="11.004349"
+     inkscape:cy="12.065009"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -55,30 +54,6 @@
       }
       </style>
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient2051">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop2047" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop2049" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1669">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop1665" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop1667" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient4172-7-9">
       <stop
          style="stop-color:#4183d7"
@@ -88,24 +63,6 @@
          style="stop-color:#5b94df"
          id="stop4176-4-6" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1669"
-       id="linearGradient1671"
-       x1="397.57144"
-       y1="517.79797"
-       x2="397.57144"
-       y2="530.79797"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2051"
-       id="linearGradient2053"
-       x1="417.57144"
-       y1="522.79797"
-       x2="417.57144"
-       y2="545.79797"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata5458">
@@ -131,24 +88,13 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
     <path
-       id="rect1087"
-       style="opacity:0.2;fill:url(#linearGradient1671);fill-opacity:1"
-       d="m 385.57144,517.79797 h 12 l 2.99999,4.00003 h 15 v 1 h -15 l -2.99999,3.99997 h -12 z"
-       sodipodi:nodetypes="ccccccccc" />
-    <path
-       style="fill:url(#linearGradient2053);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.3"
-       d="m 385.57143,526.798 h 12 l 3,-4 h 15 l -1e-5,23 h -29.99999 z"
-       id="path4186"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
-    <path
        inkscape:connector-curvature="0"
        style="fill-opacity:0.235294"
        id="path4192"
        d="m 385.57143,544.798 v 1 h 0.51725 28.96551 0.51724 v -1 h -0.51724 -28.96551 z" />
     <path
        id="rect1087-3"
-       style="opacity:0.2;fill:#000000"
+       style="opacity:0.3;fill:#000000"
        d="m 385.57143,517.798 h 12 l 2.99999,4.00003 h 15 v 1 h -15 l -2.99999,3.99997 h -12 z"
        sodipodi:nodetypes="ccccccccc" />
     <path

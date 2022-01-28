@@ -11,7 +11,6 @@
    sodipodi:docname="folder-bookmark.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -26,10 +25,10 @@
      showgrid="true"
      units="px"
      inkscape:zoom="4.430466"
-     inkscape:cx="16.928242"
-     inkscape:cy="19.411051"
+     inkscape:cx="17.041097"
+     inkscape:cy="19.523906"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="999"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -50,52 +49,6 @@
         color:#3daee9;
       }
       </style>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1263"
-       id="linearGradient1265"
-       x1="5.2916665"
-       y1="-0.5291667"
-       x2="5.2916665"
-       y2="4.4979167"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.26458375)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1263">
-      <stop
-         style="stop-color:currentColor;stop-opacity:1;"
-         class="ColorScheme-Text"
-         offset="0"
-         id="stop1259" />
-      <stop
-         style="stop-color:currentColor;stop-opacity:0;"
-         class="ColorScheme-Text"
-         offset="1"
-         id="stop1261" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2143"
-       id="linearGradient2145"
-       x1="12.7"
-       y1="2.645833"
-       x2="12.7"
-       y2="14.287499"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(2.1166666,0.79375034)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient2143">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop2139" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop2141" />
-    </linearGradient>
   </defs>
   <path
      id="rect864"
@@ -104,18 +57,8 @@
      d="M 0.79375001,1.5875 H 7.1437473 l 1.322917,1.5875 7.6729167,-1.32e-5 2e-6,12.1708472 H 0.79375001 Z"
      sodipodi:nodetypes="ccccccc" />
   <path
-     id="rect3366"
-     style="opacity:0.5;fill:url(#linearGradient1265);fill-opacity:1;stroke-width:0.264583"
-     d="M 0.79374955,1.5875003 7.1437501,1.5875 8.4666667,3.175 h 7.6729163 l 1e-6,0.2645833 -7.6729173,1e-7 -1.3229166,1.5875 H 0.79375001 Z"
-     sodipodi:nodetypes="ccccccccc" />
-  <path
-     id="rect1847"
-     style="opacity:0.3;fill:url(#linearGradient2145);fill-opacity:1;stroke-width:0.264583"
-     d="M 0.79375001,5.0270834 H 7.1437501 l 1.3229166,-1.5875 H 16.139583 V 15.08125 H 0.79375001 Z"
-     sodipodi:nodetypes="ccccccc" />
-  <path
      id="rect1287"
-     style="fill:currentColor;fill-opacity:0.2;stroke-width:0.264583"
+     style="fill:#31363b;fill-opacity:1;stroke-width:0.264583;opacity:0.3"
      class="ColorScheme-Text"
      d="m 0.79375001,1.5875 6.35000099,-3e-7 1.3229166,1.5875 H 16.139584 V 3.439583 l -7.6729154,1e-7 -1.3229185,1.5874998 -6.35000009,5e-7 z"
      sodipodi:nodetypes="ccccccccc" />
@@ -139,7 +82,7 @@
      sodipodi:nodetypes="cccccccccccc" />
   <path
      id="rect865-3"
-     style="opacity:0.5;fill:currentColor;stroke-width:9.07687e-05"
+     style="opacity:0.6;fill:currentColor;stroke-width:9.07687e-05"
      class="ColorScheme-Text"
      d="M 6.6145834,7.1437501 V 12.43542 l 1.85208,-0.79388 1.8520886,0.79388 V 7.1437501 Z m 0.26459,0.26459 H 10.054173 V 12.05508 l -1.5875096,-0.678 -1.58749,0.678 z"
      sodipodi:nodetypes="cccccccccccc" />

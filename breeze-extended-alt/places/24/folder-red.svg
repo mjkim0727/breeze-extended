@@ -8,10 +8,9 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="folder.svg"
+   sodipodi:docname="folder-red.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -27,10 +26,10 @@
      units="px"
      height="22px"
      inkscape:zoom="26.452222"
-     inkscape:cx="5.5571891"
-     inkscape:cy="12.777755"
+     inkscape:cx="5.5382871"
+     inkscape:cy="12.796657"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="999"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -48,38 +47,11 @@
         color:#3daee9;
       }
       </style>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3861">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop3857" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop3859" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3861"
-       id="linearGradient3863"
-       x1="3.1749997"
-       y1="1.3229167"
-       x2="3.1749997"
-       y2="5.291667"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0.26458337,0.26458335)" />
   </defs>
   <path
      id="rect846"
      style="fill:#ed0a42;fill-opacity:1;stroke-width:0.300229"
      d="M 0.26458337,0.52916668 H 2.3812501 L 3.175,1.5874999 6.0854166,1.5875 V 5.8208334 H 0.26458333 Z"
-     sodipodi:nodetypes="ccccccc" />
-  <path
-     id="rect2061"
-     style="opacity:0.3;fill:url(#linearGradient3863);fill-opacity:1;stroke-width:0.264583"
-     d="m 0.26458334,2.38125 2.11666676,10e-8 L 3.175,1.5874999 6.0854166,1.5875 V 5.8208333 H 0.26458334 Z"
      sodipodi:nodetypes="ccccccc" />
   <rect
      style="opacity:0.2;fill:currentColor;fill-opacity:1;stroke-width:0.288445"

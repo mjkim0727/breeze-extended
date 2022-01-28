@@ -20,8 +20,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="16.064582"
-     inkscape:cx="2.4899496"
-     inkscape:cy="17.429647"
+     inkscape:cx="2.4588253"
+     inkscape:cy="17.398523"
      inkscape:window-width="1920"
      inkscape:window-height="1007"
      inkscape:window-x="0"
@@ -30,7 +30,9 @@
      inkscape:current-layer="svg91" />
   <defs
      id="defs36">
-    <style type="text/css" id="current-color-scheme">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#31363b;
       }
@@ -38,21 +40,9 @@
         color:#3daee9;
       }
     </style>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1697">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop1693" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop1695" />
-    </linearGradient>
     <style
        type="text/css"
-       id="current-color-scheme">
+       id="style7">
       .ColorScheme-Text {
         color:#31363b;
       }
@@ -198,42 +188,6 @@
          offset="1"
          id="stop33" />
     </radialGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1697"
-       id="linearGradient1699"
-       x1="11"
-       y1="24"
-       x2="5"
-       y2="16"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1697"
-       id="linearGradient2185"
-       x1="16"
-       y1="24"
-       x2="10"
-       y2="16"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1697"
-       id="linearGradient2577"
-       x1="22"
-       y1="24"
-       x2="16"
-       y2="16"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1697"
-       id="linearGradient3033"
-       x1="27"
-       y1="24"
-       x2="21"
-       y2="16"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <linearGradient
      id="o"
@@ -378,40 +332,4 @@
      fill="url(#p)"
      stroke-width=".99890316"
      id="path89" />
-  <g
-     id="g3503"
-     style="opacity:0.4">
-    <rect
-       style="opacity:1;fill:url(#linearGradient1699);fill-opacity:1;stroke-width:1.06947"
-       id="rect1122"
-       width="2"
-       height="18"
-       x="7"
-       y="9"
-       ry="1" />
-    <rect
-       style="opacity:1;fill:url(#linearGradient3033);fill-opacity:1"
-       id="rect1403"
-       width="2"
-       height="18"
-       x="23"
-       y="9"
-       ry="1" />
-    <rect
-       style="opacity:1;fill:url(#linearGradient2185);fill-opacity:1"
-       id="rect1507"
-       width="2"
-       height="18"
-       x="12"
-       y="9"
-       ry="1" />
-    <rect
-       style="opacity:1;fill:url(#linearGradient2577);fill-opacity:1"
-       id="rect1611"
-       width="2"
-       height="18"
-       x="18"
-       y="9"
-       ry="1" />
-  </g>
 </svg>

@@ -25,11 +25,11 @@
      inkscape:document-units="px"
      showgrid="false"
      units="px"
-     inkscape:zoom="51.4375"
-     inkscape:cx="8.2624544"
-     inkscape:cy="4.9769137"
+     inkscape:zoom="9.0929513"
+     inkscape:cx="25.459281"
+     inkscape:cy="28.098688"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="999"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -46,18 +46,6 @@
         color:#3daee9;
       }
     </style>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1957">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop1953" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop1955" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1308"
@@ -80,42 +68,6 @@
          offset="1"
          id="stop1306" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1957"
-       id="linearGradient1959"
-       x1="1.5874999"
-       y1="3.4395833"
-       x2="0.79374981"
-       y2="2.3812499"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1957"
-       id="linearGradient2191"
-       x1="2.1166666"
-       y1="3.4395833"
-       x2="1.3229165"
-       y2="2.3812499"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1957"
-       id="linearGradient2455"
-       x1="2.9104166"
-       y1="3.4395833"
-       x2="2.1166666"
-       y2="2.3812499"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1957"
-       id="linearGradient2721"
-       gradientUnits="userSpaceOnUse"
-       x1="3.4395833"
-       y1="3.4395833"
-       x2="2.6458333"
-       y2="2.3812499" />
   </defs>
   <path
      id="rect1092"
@@ -158,35 +110,4 @@
      height="0.13229166"
      x="0.5291667"
      y="0.92604166" />
-  <g
-     id="g4219">
-    <rect
-       style="opacity:0.5;fill:url(#linearGradient1959);fill-opacity:1;stroke-width:0.264583"
-       id="rect874"
-       width="0.26458332"
-       height="2.1166666"
-       x="1.0583332"
-       y="1.3229166" />
-    <rect
-       style="opacity:0.5;fill:url(#linearGradient2191);fill-opacity:1;stroke-width:0.264583"
-       id="rect876"
-       width="0.26458332"
-       height="2.1166666"
-       x="1.5874999"
-       y="1.3229166" />
-    <rect
-       style="opacity:0.5;fill:url(#linearGradient2455);fill-opacity:1;stroke-width:0.264583"
-       id="rect878"
-       width="0.26458332"
-       height="2.1166666"
-       x="2.3812499"
-       y="1.3229166" />
-    <rect
-       style="opacity:0.5;fill:url(#linearGradient2721);fill-opacity:1;stroke-width:0.264583"
-       id="rect880"
-       width="0.26458332"
-       height="2.1166666"
-       x="2.9104166"
-       y="1.3229166" />
-  </g>
 </svg>

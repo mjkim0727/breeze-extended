@@ -39,9 +39,9 @@
      inkscape:window-height="1007"
      id="namedview73"
      showgrid="true"
-     inkscape:zoom="2.6074563"
-     inkscape:cx="9.5878886"
-     inkscape:cy="-42.18671"
+     inkscape:zoom="5.2149126"
+     inkscape:cx="14.861227"
+     inkscape:cy="-4.122792"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,7 +53,9 @@
   </sodipodi:namedview>
   <defs
      id="defs12">
-    <style type="text/css" id="current-color-scheme">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#31363b;
       }
@@ -198,54 +200,6 @@
        y2="17"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(1)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1482"
-       id="linearGradient2882"
-       x1="38"
-       y1="33"
-       x2="31"
-       y2="25"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1482">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop1478" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop1480" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1482"
-       id="linearGradient2618"
-       x1="31"
-       y1="33"
-       x2="24"
-       y2="25"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1482"
-       id="linearGradient1970"
-       x1="24"
-       y1="33"
-       x2="17"
-       y2="25"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1482"
-       id="linearGradient1484"
-       x1="17"
-       y1="33"
-       x2="10"
-       y2="25"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <linearGradient
      id="a">
@@ -416,22 +370,6 @@
      style="fill:url(#linearGradient5342);fill-opacity:1;opacity:0.2"
      d="m 27,20 6,-6 h 5 v 18 z"
      sodipodi:nodetypes="ccccc" />
-  <path
-     id="rect989"
-     style="opacity:0.4;fill:url(#linearGradient1484);fill-opacity:1"
-     d="m 13.5,16 c 0.831,0 1.5,0.669 1.5,1.5 v 21 C 15,39.331 14.331,40 13.5,40 12.669,40 12,39.331 12,38.5 v -21 C 12,16.669 12.669,16 13.5,16 Z" />
-  <path
-     id="rect1151"
-     style="opacity:0.4;fill:url(#linearGradient1970);fill-opacity:1"
-     d="m 20.5,16 c 0.831,0 1.5,0.669 1.5,1.5 v 21 C 22,39.331 21.331,40 20.5,40 19.669,40 19,39.331 19,38.5 v -21 C 19,16.669 19.669,16 20.5,16 Z" />
-  <path
-     id="rect1214"
-     style="opacity:0.4;fill:url(#linearGradient2618);fill-opacity:1"
-     d="m 27.5,16 c 0.831,0 1.5,0.669 1.5,1.5 v 21 C 29,39.331 28.331,40 27.5,40 26.669,40 26,39.331 26,38.5 v -21 C 26,16.669 26.669,16 27.5,16 Z" />
-  <path
-     id="rect1357"
-     style="opacity:0.4;fill:url(#linearGradient2882);fill-opacity:1"
-     d="m 34.5,16 c 0.831,0 1.5,0.669 1.5,1.5 v 21 C 36,39.331 35.331,40 34.5,40 33.669,40 33,39.331 33,38.5 v -21 C 33,16.669 33.669,16 34.5,16 Z" />
   <path
      id="rect5830"
      style="opacity:0.2;fill-opacity:1;fill:url(#linearGradient6071)"
