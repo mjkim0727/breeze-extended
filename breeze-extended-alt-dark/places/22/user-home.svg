@@ -26,17 +26,27 @@
      showgrid="false"
      units="px"
      height="16px"
-     inkscape:zoom="10.2875"
-     inkscape:cx="-14.386391"
-     inkscape:cy="-1.7982988"
+     inkscape:zoom="29.097444"
+     inkscape:cx="5.7565194"
+     inkscape:cy="12.32067"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="999"
      inkscape:window-x="0"
-     inkscape:window-y="31"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
      id="defs2">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+    </style>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient3539">
@@ -63,28 +73,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient984">
-      <stop
-         style="stop-color:#232629;stop-opacity:1;"
-         offset="0"
-         id="stop980" />
-      <stop
-         style="stop-color:#31363b;stop-opacity:1"
-         offset="1"
-         id="stop982" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient984"
-       id="linearGradient986"
-       x1="0.23656841"
-       y1="1.2332227"
-       x2="2.0753243"
-       y2="1.2332227"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1511408,0,0,1.5313001,-0.27232353,-0.83010091)" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient1530"
        id="linearGradient1532"
        x1="2.1532798"
@@ -105,7 +93,15 @@
        gradientTransform="matrix(1.4999999,0,0,1.4285714,-0.26458316,-0.2267857)" />
   </defs>
   <rect
-     style="fill:#232629;fill-opacity:1;stroke-width:0.251502"
+     style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.132292;stroke-linejoin:round"
+     class="ColorScheme-Highlight"
+     id="rect987"
+     width="0.79374981"
+     height="1.5875001"
+     x="4.2333331"
+     y="0.52916664" />
+  <rect
+     style="fill:#232629;fill-opacity:1;stroke-width:0.251502;opacity:0.3"
      id="rect1090"
      width="0.79374999"
      height="1.5875"
@@ -116,11 +112,6 @@
      style="fill:url(#linearGradient1532);stroke-width:0.780157"
      d="M 0.52916667,2.38125 2.9104169,0.13229166 5.2916667,2.38125 V 5.8208334 H 0.52916667 Z"
      sodipodi:nodetypes="cccccc" />
-  <path
-     id="rect846"
-     style="fill:url(#linearGradient986);stroke-width:0.351282"
-     d="M 0,2.6458334 2.9104167,0 5.8208333,2.6458334 V 3.175 L 2.9104167,0.52916667 0,3.1750001 Z"
-     sodipodi:nodetypes="ccccccc" />
   <rect
      style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.3458"
      id="rect2414"
@@ -149,4 +140,10 @@
      height="0.26458335"
      x="0.5291667"
      y="5.5562496" />
+  <path
+     id="rect846"
+     class="ColorScheme-Highlight"
+     style="fill:currentColor;stroke-width:0.351282;fill-opacity:1"
+     d="M 0,2.6458334 2.9104167,0 5.8208333,2.6458334 V 3.175 L 2.9104167,0.52916667 0,3.1750001 Z"
+     sodipodi:nodetypes="ccccccc" />
 </svg>

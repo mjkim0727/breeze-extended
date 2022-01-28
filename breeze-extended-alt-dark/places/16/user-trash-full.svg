@@ -26,10 +26,10 @@
      showgrid="false"
      units="px"
      inkscape:zoom="32.499998"
-     inkscape:cx="4.0615387"
-     inkscape:cy="11.661539"
+     inkscape:cx="4.0461541"
+     inkscape:cy="11.646155"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="999"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -135,54 +135,6 @@
        x2="2.5135417"
        y2="1.5875"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1957"
-       id="linearGradient1959"
-       x1="1.5874999"
-       y1="3.4395833"
-       x2="0.79374981"
-       y2="2.3812499"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1957">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop1953" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop1955" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1957"
-       id="linearGradient2191"
-       x1="2.1166666"
-       y1="3.4395833"
-       x2="1.3229165"
-       y2="2.3812499"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1957"
-       id="linearGradient2455"
-       x1="2.9104166"
-       y1="3.4395833"
-       x2="2.1166666"
-       y2="2.3812499"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1957"
-       id="linearGradient2721"
-       gradientUnits="userSpaceOnUse"
-       x1="3.4395833"
-       y1="3.4395833"
-       x2="2.6458333"
-       y2="2.3812499" />
   </defs>
   <path
      id="rect1092"
@@ -213,37 +165,6 @@
        y="1.3229166" />
     <rect
        id="rect849-6"
-       width="0.26458332"
-       height="2.1166666"
-       x="2.9104166"
-       y="1.3229166" />
-  </g>
-  <g
-     id="g4219">
-    <rect
-       style="opacity:0.5;fill:url(#linearGradient1959);fill-opacity:1;stroke-width:0.264583"
-       id="rect874"
-       width="0.26458332"
-       height="2.1166666"
-       x="1.0583332"
-       y="1.3229166" />
-    <rect
-       style="opacity:0.5;fill:url(#linearGradient2191);fill-opacity:1;stroke-width:0.264583"
-       id="rect876"
-       width="0.26458332"
-       height="2.1166666"
-       x="1.5874999"
-       y="1.3229166" />
-    <rect
-       style="opacity:0.5;fill:url(#linearGradient2455);fill-opacity:1;stroke-width:0.264583"
-       id="rect878"
-       width="0.26458332"
-       height="2.1166666"
-       x="2.3812499"
-       y="1.3229166" />
-    <rect
-       style="opacity:0.5;fill:url(#linearGradient2721);fill-opacity:1;stroke-width:0.264583"
-       id="rect880"
        width="0.26458332"
        height="2.1166666"
        x="2.9104166"

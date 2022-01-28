@@ -12,7 +12,7 @@ KDE, GNOME, Xfce, Cinnamon, LXQt, MATE
 
 # Varients
 
-- Default(breeze-extended) : Same as Vanila, but some 
+- Default(breeze-extended) : Same as Vanila before 5.23
 - Alternative(breeze-extended-alt) : Different Designs
 - Win11(breeze-extended-eleven) : With Win11 Colors
 - macOS Style(breeze-extended-mac) : with macOS Style icons
