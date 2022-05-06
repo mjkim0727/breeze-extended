@@ -47,11 +47,11 @@
        inkscape:collect="always"
        id="linearGradient836">
       <stop
-         style="stop-color:#82705e;stop-opacity:1;"
+         style="stop-color:#1f64b3;stop-opacity:1;"
          offset="0"
          id="stop832" />
       <stop
-         style="stop-color:#a89888;stop-opacity:1"
+         style="stop-color:#2271ca;stop-opacity:1"
          offset="1"
          id="stop834" />
     </linearGradient>
@@ -69,11 +69,11 @@
        inkscape:collect="always"
        id="linearGradient4172-5">
       <stop
-         style="stop-color:#bda792"
+         style="stop-color:#83f3c8"
          id="stop4174-6" />
       <stop
          offset="1"
-         style="stop-color:#c9b8a7"
+         style="stop-color:#67b0e5"
          id="stop4176-6" />
     </linearGradient>
     <linearGradient
@@ -157,7 +157,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <path
-       inkscape:connector-curvature="0" style="fill:#867a6e;color:#000000;stroke-width:2"
+       inkscape:connector-curvature="0" style="fill:#3885dd;color:#000000;stroke-width:2"
        id="path3023"
        d="M 26.5 27 A 1.5000025 1.499995 0 0 0 25 28.5 A 1.5000025 1.499995 0 0 0 26.5 30 A 1.5000025 1.499995 0 0 0 28 28.5 A 1.5000025 1.499995 0 0 0 26.5 27 z M 35 27 L 32.15625 29.84375 L 36.53125 34.21875 L 32 39.375 L 35 42 L 42 34 L 35 27 z M 24.5 34 A 2.4999926 2.5 0 0 0 22 36.5 A 2.4999926 2.5 0 0 0 24.5 39 A 2.4999926 2.5 0 0 0 27 36.5 A 2.4999926 2.5 0 0 0 24.5 34 z M 29 41 A 2.9999924 3 0 0 0 26 44 A 2.9999924 3 0 0 0 29 47 A 2.9999924 3 0 0 0 32 44 A 2.9999924 3 0 0 0 29 41 z "
        transform="matrix(1 0 0 1 384.57143 483.798)"/>

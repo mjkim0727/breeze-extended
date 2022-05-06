@@ -41,11 +41,11 @@
        inkscape:collect="always"
        id="linearGradient4652">
       <stop
-         style="stop-color:#82705e;stop-opacity:1;"
+         style="stop-color:#1f64b3;stop-opacity:1;"
          offset="0"
          id="stop4648" />
       <stop
-         style="stop-color:#a89888;stop-opacity:1"
+         style="stop-color:#2271ca;stop-opacity:1"
          offset="1"
          id="stop4650" />
     </linearGradient>
@@ -53,11 +53,11 @@
        inkscape:collect="always"
        id="linearGradient3734">
       <stop
-         style="stop-color:#bda792;stop-opacity:1;"
+         style="stop-color:#83f3c8;stop-opacity:1;"
          offset="0"
          id="stop3730" />
       <stop
-         style="stop-color:#c9b8a7;stop-opacity:1"
+         style="stop-color:#67b0e5;stop-opacity:1"
          offset="1"
          id="stop3732" />
     </linearGradient>
@@ -120,5 +120,5 @@
      shape-rendering="auto"
      solid-color="#000000"
      stop-color="#000000"
-     style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;isolation:auto;mix-blend-mode:normal;fill:#867a61;fill-opacity:1;stroke-width:0.252439" />
+     style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;isolation:auto;mix-blend-mode:normal;fill:#3885dd;fill-opacity:1;stroke-width:0.252439" />
 </svg>

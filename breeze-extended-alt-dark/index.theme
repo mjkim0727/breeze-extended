@@ -9,7 +9,7 @@ Comment[ko]=다양한 데스크탑 환경 지원이 포함된 KDE 시각 디자�
 
 DisplayDepth=32
 
-Inherits=breeze,hicolor
+Inherits=breeze-extended-alt,breeze,hicolor
 
 Example=folder
 

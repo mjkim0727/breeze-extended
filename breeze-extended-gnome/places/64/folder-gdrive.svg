@@ -47,11 +47,11 @@
        inkscape:collect="always"
        id="linearGradient836">
       <stop
-         style="stop-color:#82705e;stop-opacity:1;"
+         style="stop-color:#1f64b3;stop-opacity:1;"
          offset="0"
          id="stop832" />
       <stop
-         style="stop-color:#a89888;stop-opacity:1"
+         style="stop-color:#2271ca;stop-opacity:1"
          offset="1"
          id="stop834" />
     </linearGradient>
@@ -69,11 +69,11 @@
        inkscape:collect="always"
        id="linearGradient4172-5">
       <stop
-         style="stop-color:#bda792"
+         style="stop-color:#83f3c8"
          id="stop4174-6" />
       <stop
          offset="1"
-         style="stop-color:#c9b8a7"
+         style="stop-color:#67b0e5"
          id="stop4176-6" />
     </linearGradient>
     <linearGradient
@@ -158,7 +158,7 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       style="fill:#867a6e;fill-opacity:1;stroke:none"
+       style="fill:#3885dd;fill-opacity:1;stroke:none"
        d="m 413.62808,510.798 6.97048,12.85646 h 6.97287 L 420.59856,510.798 Z m -1.1172,1.14013 -6.93945,11.47217 3.24892,6.6626 6.75802,-12.1289 z m 0.95248,13.14454 -3.52582,5.71533 h 14.10567 l 3.52822,-5.71533 z"
        class="ColorScheme-Text"
        id="path6" />

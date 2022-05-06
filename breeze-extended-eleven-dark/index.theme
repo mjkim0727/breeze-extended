@@ -9,7 +9,7 @@ Comment[ko]=다양한 데스크탑 환경 지원과 Windows 11 스타일 색상�
 
 DisplayDepth=32
 
-Inherits=breeze,hicolor
+Inherits=breeze-extended-eleven,breeze,hicolor
 
 Example=folder
 

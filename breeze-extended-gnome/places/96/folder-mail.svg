@@ -41,11 +41,11 @@
        inkscape:collect="always"
        id="linearGradient4652">
       <stop
-         style="stop-color:#82705e;stop-opacity:1;"
+         style="stop-color:#1f64b3;stop-opacity:1;"
          offset="0"
          id="stop4648" />
       <stop
-         style="stop-color:#a89888;stop-opacity:1"
+         style="stop-color:#2271ca;stop-opacity:1"
          offset="1"
          id="stop4650" />
     </linearGradient>
@@ -53,11 +53,11 @@
        inkscape:collect="always"
        id="linearGradient3734">
       <stop
-         style="stop-color:#bda792;stop-opacity:1;"
+         style="stop-color:#83f3c8;stop-opacity:1;"
          offset="0"
          id="stop3730" />
       <stop
-         style="stop-color:#c9b8a7;stop-opacity:1"
+         style="stop-color:#67b0e5;stop-opacity:1"
          offset="1"
          id="stop3732" />
     </linearGradient>
@@ -112,6 +112,6 @@
      sodipodi:nodetypes="ccccc" />
   <path
      id="rect856"
-     style="fill:#867a61;stroke-width:0.264583"
+     style="fill:#3885dd;stroke-width:0.264583"
      d="m 8.73125,11.641667 v 6.35 h 7.9375 v -6.35 z m 0.583944,0.264583 h 6.769612 L 12.7,15.291057 Z m -0.319361,0.05478 2.591057,2.591057 -2.591057,2.591056 z m 7.408333,0 v 5.182113 L 13.81311,14.552087 Z m -4.630208,2.778125 0.926042,0.926042 0.926041,-0.926042 2.778125,2.778125 v 0.209807 H 8.995833 V 17.51728 Z" />
 </svg>

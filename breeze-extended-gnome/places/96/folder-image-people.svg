@@ -41,11 +41,11 @@
        inkscape:collect="always"
        id="linearGradient4652">
       <stop
-         style="stop-color:#82705e;stop-opacity:1;"
+         style="stop-color:#1f64b3;stop-opacity:1;"
          offset="0"
          id="stop4648" />
       <stop
-         style="stop-color:#a89888;stop-opacity:1"
+         style="stop-color:#2271ca;stop-opacity:1"
          offset="1"
          id="stop4650" />
     </linearGradient>
@@ -53,11 +53,11 @@
        inkscape:collect="always"
        id="linearGradient3734">
       <stop
-         style="stop-color:#bda792;stop-opacity:1;"
+         style="stop-color:#83f3c8;stop-opacity:1;"
          offset="0"
          id="stop3730" />
       <stop
-         style="stop-color:#c9b8a7;stop-opacity:1"
+         style="stop-color:#67b0e5;stop-opacity:1"
          offset="1"
          id="stop3732" />
     </linearGradient>
@@ -112,6 +112,6 @@
      sodipodi:nodetypes="ccccc" />
   <path
      id="path875"
-     style="fill:#867a6e;stroke-width:0.265197"
+     style="fill:#3885dd;stroke-width:0.265197"
      d="m 12.700111,10.847917 a 1.8520833,1.8520833 0 0 0 -1.852083,1.852084 1.8520833,1.8520833 0 0 0 1.852083,1.852083 1.8520833,1.8520833 0 0 0 1.852083,-1.852083 1.8520833,1.8520833 0 0 0 -1.852083,-1.852084 z m 0,0.264584 a 1.5875,1.5875 0 0 1 1.5875,1.5875 1.5875,1.5875 0 0 1 -1.5875,1.5875 1.5875,1.5875 0 0 1 -1.5875,-1.5875 1.5875,1.5875 0 0 1 1.5875,-1.5875 z m 0,4.233333 c -1.986497,0.0011 -3.6661586,1.470824 -3.9310256,3.439583 h 0.06821 7.7948726 c -0.264919,-1.969148 -1.945171,-3.438956 -3.93206,-3.439583 z m 0,0.264583 c 1.736701,0.004 3.237452,1.214052 3.609599,2.910417 H 9.0930974 c 0.371935,-1.695424 1.8712806,-2.90521 3.6070136,-2.910417 z" />
 </svg>

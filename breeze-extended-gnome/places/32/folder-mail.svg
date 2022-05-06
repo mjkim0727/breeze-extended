@@ -48,11 +48,11 @@
        inkscape:collect="always"
        id="linearGradient835">
       <stop
-         style="stop-color:#82705e;stop-opacity:1;"
+         style="stop-color:#1f64b3;stop-opacity:1;"
          offset="0"
          id="stop831" />
       <stop
-         style="stop-color:#a89888;stop-opacity:1"
+         style="stop-color:#2271ca;stop-opacity:1"
          offset="1"
          id="stop833" />
     </linearGradient>
@@ -80,11 +80,11 @@
        inkscape:collect="always"
        id="linearGradient4172-5">
       <stop
-         style="stop-color:#bda792"
+         style="stop-color:#83f3c8"
          id="stop4174-6" />
       <stop
          offset="1"
-         style="stop-color:#c9b8a7"
+         style="stop-color:#67b0e5"
          id="stop4176-6" />
     </linearGradient>
     <linearGradient
@@ -149,7 +149,7 @@
        id="path4204"
        d="m 397.57143,517.798 3,5 h 15 v -1 h -15 z" />
     <path
-       style="fill:#867a6e;fill-opacity:1"
+       style="fill:#3885dd;fill-opacity:1"
        id="rect4347"
        d="M 10 14 L 10 15 L 10 22 L 11 22 L 22 22 L 22 21 L 22 15 L 22 14 L 10 14 z M 11 15 L 11.292969 15 L 13.933594 17.640625 L 11.054688 21 L 11 21 L 11 15 z M 12.707031 15 L 19.292969 15 L 16 18.292969 L 12.707031 15 z M 20.707031 15 L 21 15 L 21 21 L 20.943359 21 L 18.066406 17.640625 L 20.707031 15 z M 14.642578 18.349609 L 16 19.707031 L 17.357422 18.349609 L 19.628906 21 L 12.371094 21 L 14.642578 18.349609 z "
        transform="matrix(1 0 0 1 384.57143 515.798)" />

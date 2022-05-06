@@ -42,11 +42,11 @@
        inkscape:collect="always"
        id="linearGradient6505">
       <stop
-         style="stop-color:#82705e;stop-opacity:1"
+         style="stop-color:#1f64b3;stop-opacity:1"
          offset="0"
          id="stop6501" />
       <stop
-         style="stop-color:#a89888;stop-opacity:0.99912935"
+         style="stop-color:#2271ca;stop-opacity:0.99912935"
          offset="1"
          id="stop6503" />
     </linearGradient>
@@ -54,11 +54,11 @@
        inkscape:collect="always"
        id="linearGradient6033">
       <stop
-         style="stop-color:#bda792;stop-opacity:1"
+         style="stop-color:#83f3c8;stop-opacity:1"
          offset="0"
          id="stop6029" />
       <stop
-         style="stop-color:#c9b8a7;stop-opacity:1"
+         style="stop-color:#67b0e5;stop-opacity:1"
          offset="1"
          id="stop6031" />
     </linearGradient>
@@ -116,5 +116,5 @@
   <path
      d="M 5.5562499,5.8208333 A 0.26458333,0.26458333 0 0 0 5.2916666,6.0854167 0.26458333,0.26458333 0 0 0 5.5562499,6.35 0.26458333,0.26458333 0 0 0 5.8208333,6.0854167 0.26458333,0.26458333 0 0 0 5.5562499,5.8208333 Z m 1.3229167,0 -0.396875,0.396875 0.6614583,0.6614579 -0.6614583,0.661459 0.396875,0.396875 1.0583332,-1.058334 z M 5.0932291,7.0114582 A 0.33072916,0.33072916 0 0 0 4.7625,7.3421872 0.33072916,0.33072916 0 0 0 5.0932291,7.6729162 0.33072916,0.33072916 0 0 0 5.4239583,7.3421872 0.33072916,0.33072916 0 0 0 5.0932291,7.0114582 Z m 0.8598958,1.190625 a 0.396875,0.396875 0 0 0 -0.396875,0.396875 0.396875,0.396875 0 0 0 0.396875,0.396875 0.396875,0.396875 0 0 0 0.396875,-0.396875 0.396875,0.396875 0 0 0 -0.396875,-0.396875 z"
      id="path23"
-     style="fill:#867a6e;fill-opacity:1;stroke-width:0.264583" />
+     style="fill:#3885dd;fill-opacity:1;stroke-width:0.264583" />
 </svg>

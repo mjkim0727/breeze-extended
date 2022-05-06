@@ -42,11 +42,11 @@
        inkscape:collect="always"
        id="linearGradient6505">
       <stop
-         style="stop-color:#82705e;stop-opacity:1"
+         style="stop-color:#1f64b3;stop-opacity:1"
          offset="0"
          id="stop6501" />
       <stop
-         style="stop-color:#a89888;stop-opacity:0.99912935"
+         style="stop-color:#2271ca;stop-opacity:0.99912935"
          offset="1"
          id="stop6503" />
     </linearGradient>
@@ -54,11 +54,11 @@
        inkscape:collect="always"
        id="linearGradient6033">
       <stop
-         style="stop-color:#bda792;stop-opacity:1"
+         style="stop-color:#83f3c8;stop-opacity:1"
          offset="0"
          id="stop6029" />
       <stop
-         style="stop-color:#c9b8a7;stop-opacity:1"
+         style="stop-color:#67b0e5;stop-opacity:1"
          offset="1"
          id="stop6031" />
     </linearGradient>
@@ -116,5 +116,5 @@
   <path
      d="m 4.7625,5.8208333 v 3.1749999 h 3.175 V 5.8208333 Z M 5.0270833,6.0854167 H 6.0854167 V 6.35 H 6.35 V 6.0854167 H 7.6729166 V 8.7312502 H 5.0270833 Z M 6.35,6.35 V 6.6145833 H 6.6145833 V 6.35 Z m 0,0.2645833 H 6.0854167 V 6.8791667 H 6.35 Z m 0,0.2645834 V 7.14375 H 6.6145833 V 6.8791667 Z m 0,0.2645833 H 6.0854167 V 7.4083333 H 6.35 Z m 0,0.2645833 V 7.6729167 H 6.0854167 V 7.9375002 H 6.6145833 V 7.4083333 Z"
      id="path23"
-     style="fill:#867a6e;stroke-width:0.264583" />
+     style="fill:#3885dd;stroke-width:0.264583" />
 </svg>

@@ -42,11 +42,11 @@
        inkscape:collect="always"
        id="linearGradient6505">
       <stop
-         style="stop-color:#82705e;stop-opacity:1"
+         style="stop-color:#1f64b3;stop-opacity:1"
          offset="0"
          id="stop6501" />
       <stop
-         style="stop-color:#a89888;stop-opacity:0.99912935"
+         style="stop-color:#2271ca;stop-opacity:0.99912935"
          offset="1"
          id="stop6503" />
     </linearGradient>
@@ -54,11 +54,11 @@
        inkscape:collect="always"
        id="linearGradient6033">
       <stop
-         style="stop-color:#bda792;stop-opacity:1"
+         style="stop-color:#83f3c8;stop-opacity:1"
          offset="0"
          id="stop6029" />
       <stop
-         style="stop-color:#c9b8a7;stop-opacity:1"
+         style="stop-color:#67b0e5;stop-opacity:1"
          offset="1"
          id="stop6031" />
     </linearGradient>
@@ -93,7 +93,7 @@
      sodipodi:nodetypes="ccccccc" />
   <g
      transform="matrix(0.26458333,0,0,0.26458333,4.2333333,5.2916667)"
-     fill="#867a6e"
+     fill="#3885dd"
      id="g27">
     <path
        d="M 5,6 V 7 H 4 V 8 H 5 V 9 H 6 V 8 H 7 V 7 H 6 V 6 Z M 10.5,5.9 A 0.6,0.6 0 0 0 9.9,6.5 0.6,0.6 0 0 0 10.5,7.1 0.6,0.6 0 0 0 11.1,6.5 0.6,0.6 0 0 0 10.5,5.9 Z m -1,1 A 0.6,0.6 0 0 0 8.9,7.5 0.6,0.6 0 0 0 9.5,8.1 0.6,0.6 0 0 0 10.1,7.5 0.6,0.6 0 0 0 9.5,6.9 Z m 2,0 a 0.6,0.6 0 0 0 -0.6,0.6 0.6,0.6 0 0 0 0.6,0.6 0.6,0.6 0 0 0 0.6,-0.6 0.6,0.6 0 0 0 -0.6,-0.6 z m -1,1 A 0.6,0.6 0 0 0 9.9,8.5 0.6,0.6 0 0 0 10.5,9.1 0.6,0.6 0 0 0 11.1,8.5 0.6,0.6 0 0 0 10.5,7.9 Z"
