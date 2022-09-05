@@ -12,8 +12,8 @@ KDE, GNOME, Xfce, Cinnamon, LXQt, MATE
 
 # Varients
 
-- Default(breeze-extended) : Same as Vanila before 5.23
-- Alternative(breeze-extended-alt) : Different Designs
+- Default(breeze-extended) : Same as Vanila before 5.23 -> It moved archive directory.
+- Alternative(breeze-extended-alt) : Different Designs -> It will be default 1.13 Update.
 - Win11(breeze-extended-eleven) : With Win11 Colors
 - macOS Style(breeze-extended-mac) : with macOS Style icons
 - Cinnamon(breeze-extended-cinnamon) : with Cinnamon Colors
