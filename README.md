@@ -10,6 +10,16 @@ Original authorized by KDE VDG
 
 KDE, GNOME, Xfce, Cinnamon, LXQt, MATE
 
+# Installations
+
+## Via AUR (Arch Distros)
+
+* I packaging only Default Version and full version.
+
+```
+yay -S breeze-extended
+```
+
 # Varients
 
 - Default(breeze-extended) : Same as Vanila before 5.23 -> It moved archive directory.
