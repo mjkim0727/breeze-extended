@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   sodipodi:docname="network-wireless-signal-excellent-symbolic.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     id="namedview12"
+     showgrid="true"
+     inkscape:zoom="18.16"
+     inkscape:cx="3.6343612"
+     inkscape:cy="6.8281938"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4508" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     id="path4477-3"
+     style="color:#31363b;opacity:1;fill:#eff0f1;fill-opacity:1;stroke:none"
+     d="M 15.797923,5.253127 C 13.809673,3.264876 11.058462,2.038 8.011462,2.038 4.964462,2.038 2.21325,3.264877 0.225,5.253127 l 0.707107,0.707107 c 1.8075,-1.80751 4.309355,-2.92234 7.079355,-2.922341 2.77,1e-6 5.271845,1.11483 7.079354,2.922341 z M 12.966734,8.056695 C 11.701484,6.791444 9.950462,6.009952 8.011462,6.009952 c -1.939,0 -3.690022,0.781493 -4.955272,2.046742 l 0.708488,0.708488 c 1.0845,-1.084499 2.584784,-1.755337 4.246784,-1.755337 1.662,0 3.162285,0.670838 4.246784,1.755338 z m -2.429298,2.429298 C 9.148955,9.096369 6.897751,9.092662 5.504824,10.477693 l 0.708487,0.708487 c 1.001342,-0.993436 2.61725,-0.990968 3.615636,0.0055 l 0.0014,0.0014 z" />
+  <circle
+     style="opacity:1;fill:#eff0f1;fill-opacity:1;stroke-width:2"
+     id="path849"
+     cx="8"
+     cy="14"
+     r="1" />
+</svg>

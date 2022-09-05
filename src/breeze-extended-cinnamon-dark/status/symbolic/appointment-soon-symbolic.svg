@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16.072"
+   width="16"
+   version="1.1"
+   sodipodi:docname="appointment-soon-symbolic.svg"
+   inkscape:version="0.92.1 r15371">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="808"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="14.683922"
+     inkscape:cx="-5.3479326"
+     inkscape:cy="8.0360004"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     inkscape:connector-curvature="0"
+     id="path4183"
+     d="m 8.0000099,0.03598525 a 1.5,1.5 0 0 0 -1.5,1.50000005 1.5,1.5 0 0 0 0.16797,0.68555 5,5 0 0 0 -3.66797,4.8144499 A 3.5,6 0 0 1 9.84e-6,12.967625 v 1.02149 0.0469 H 11.0879 a 1.5,1.5 0 0 0 -0.0879,0.5 1.5,1.5 0 0 0 1.5,1.5 1.5,1.5 0 0 0 1.5,-1.5 1.5,1.5 0 0 0 -0.0879,-0.5 h 2.08789 v -0.0469 -1.02148 a 3.5,6 0 0 1 -3,-5.9316498 5,5 0 0 0 -3.6660201,-4.8183599 1.5,1.5 0 0 0 0.16602,-0.68164 1.5,1.5 0 0 0 -1.5,-1.50000005 z m 0,3.00000005 A 4,4 0 0 1 12.00001,7.0359852 4.5,7 0 0 0 14.19532,13.035985 H 1.8046999 a 4.5,7 0 0 0 2.19531,-5.9999998 4,4 0 0 1 4,-3.9999999 z"
+     style="color:#31363b;fill:#eff0f1;fill-opacity:1;stroke:none"
+     class="ColorScheme-Text" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#eff0f1;fill-opacity:1;stroke:none;stroke-width:1.56977737;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4483"
+     width="1"
+     height="6"
+     x="7"
+     y="4.0720005" />
+  <rect
+     y="11.072001"
+     x="7"
+     height="1"
+     width="1"
+     id="rect4485"
+     style="opacity:1;vector-effect:none;fill:#eff0f1;fill-opacity:1;stroke:none;stroke-width:0.64085895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+</svg>

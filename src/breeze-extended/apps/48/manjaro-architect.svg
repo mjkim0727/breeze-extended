@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="manjaro-architect.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata38">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     id="namedview36"
+     showgrid="true"
+     inkscape:zoom="9.1997053"
+     inkscape:cx="11.337686"
+     inkscape:cy="20.504032"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34">
+    <inkscape:grid
+       type="xygrid"
+       id="grid850" />
+  </sodipodi:namedview>
+  <defs
+     id="defs20">
+    <linearGradient
+       id="linearGradient4227">
+      <stop
+         style="stop-color:#292c2f;stop-opacity:1"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4219">
+      <stop
+         offset="0"
+         style="stop-color:#999a9c;stop-opacity:1"
+         id="stop7" />
+      <stop
+         offset="1"
+         style="stop-color:#f4f5f5;stop-opacity:1"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4159">
+      <stop
+         style="stop-color:#2a2c2f;stop-opacity:1"
+         offset="0"
+         id="stop12" />
+      <stop
+         style="stop-color:#424649;stop-opacity:1"
+         offset="1"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient4159"
+       id="linearGradient4165"
+       x1="409.571"
+       y1="543.798"
+       x2="409.571"
+       y2="503.798"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-384.57145,-499.798)" />
+    <linearGradient
+       xlink:href="#linearGradient4219"
+       id="linearGradient4217"
+       x1="25"
+       y1="34"
+       x2="25"
+       y2="14"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient4227"
+       id="linearGradient4233"
+       x1="403.571"
+       y1="523.798"
+       x2="416.571"
+       y2="536.798"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-388.98536,-505.79772)" />
+  </defs>
+  <rect
+     id="rect22"
+     ry="0"
+     y="4.0019879"
+     x="3.9985774"
+     height="40"
+     width="40"
+     style="opacity:1;fill:url(#linearGradient4165);fill-opacity:1;stroke:none" />
+  <rect
+     id="rect24"
+     y="43.001987"
+     x="3.9985774"
+     height="1"
+     width="40"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path28"
+     d="m 24.474,30 9.5857,9.5857 5.52637,-1.99972 V 31.58607 L 26,18 Z"
+     style="opacity:0.4;fill:url(#linearGradient4233);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     style="fill:#ffffff"
+     d="M 24.474,30 20,24 h 3 v -6 l 3,0.02892 v 5.9711 h 3 z"
+     id="path16"
+     inkscape:connector-curvature="0" />
+  <g
+     aria-label="manjaro:~$"
+     style="font-style:normal;font-weight:normal;font-size:3.98009944px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#16ab8d;fill-opacity:1;stroke:none;stroke-width:0.09950251"
+     id="text848">
+    <path
+       d="M 5.9999998,9.0248756 V 6.8915423 H 6.246766 l 0.051741,0.2348259 h 0.019901 q 0.079602,-0.159204 0.1751244,-0.2149254 0.095522,-0.059702 0.2189054,-0.059702 0.1631841,0 0.2507463,0.079602 0.091542,0.075622 0.1393035,0.2268657 h 0.01194 q 0.067662,-0.1472637 0.1671642,-0.2268657 0.1034826,-0.079602 0.2706467,-0.079602 0.2467662,0 0.3422886,0.1910448 0.099502,0.1870647 0.099502,0.5890547 V 9.0248756 H 7.6756217 V 7.6915423 q 0,-0.2507462 -0.035821,-0.3900497 Q 7.60796,7.1621891 7.4606963,7.1621891 q -0.3024875,0 -0.3024875,0.7960199 V 9.0248756 H 6.8398008 V 7.6915423 q 0,-0.2547263 -0.047761,-0.3900497 -0.043781,-0.1393035 -0.1910447,-0.1393035 -0.159204,0 -0.2228856,0.2149254 -0.059702,0.2149253 -0.059702,0.5810945 v 1.0666666 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono';fill:#16ab8d;fill-opacity:1;stroke-width:0.09950251"
+       id="path830" />
+    <path
+       d="m 9.1666042,9.0646766 q -0.3144278,0 -0.5094527,-0.1552238 Q 8.4661067,8.7542289 8.4661067,8.439801 q 0,-0.3462686 0.2467662,-0.5174129 0.2507463,-0.1711443 0.720398,-0.1830846 l 0.4577114,-0.01194 V 7.639801 q 0,-0.2865671 -0.1432836,-0.3900497 -0.1432835,-0.1074627 -0.3860696,-0.1074627 -0.1711443,0 -0.3263682,0.043781 -0.1552238,0.043781 -0.2945273,0.1233831 L 8.6173505,7.038806 q 0.1512438,-0.075622 0.3343284,-0.1313433 0.1870646,-0.055721 0.4298507,-0.055721 0.3980099,0 0.6169154,0.1830846 0.218905,0.1791045 0.218905,0.561194 V 9.0248756 H 9.9307833 L 9.8909823,8.7303483 h -0.01592 Q 9.7437186,8.8975125 9.5685943,8.9810945 9.39745,9.0646766 9.1666042,9.0646766 Z m 0.059701,-0.2905472 q 0.1791045,0 0.3303483,-0.063682 0.1512437,-0.067662 0.242786,-0.199005 0.091542,-0.1313433 0.091542,-0.3383084 V 7.9820896 l -0.3820895,0.01194 q -0.3820896,0.01194 -0.5452736,0.1233831 -0.159204,0.1114428 -0.159204,0.3104477 0,0.1830846 0.1154229,0.2666667 0.1154228,0.079602 0.3064676,0.079602 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono';fill:#16ab8d;fill-opacity:1;stroke-width:0.09950251"
+       id="path832" />
+    <path
+       d="M 10.892413,9.0248756 V 6.8915423 h 0.286567 l 0.05174,0.3144279 h 0.0199 q 0.09154,-0.1830846 0.270646,-0.2666667 0.183085,-0.087562 0.425871,-0.087562 0.322388,0 0.517413,0.1830846 Q 12.663557,7.2139304 12.663557,7.6 v 1.4248756 h -0.358209 v -1.361194 q 0,-0.2706467 -0.111443,-0.3940298 -0.107463,-0.1273632 -0.350249,-0.1273632 -0.326368,0 -0.461691,0.2069652 -0.131343,0.2069651 -0.131343,0.5810945 v 1.0945273 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono';fill:#16ab8d;fill-opacity:1;stroke-width:0.09950251"
+       id="path834" />
+    <path
+       d="m 14.321703,6.5054727 q -0.103482,0 -0.175124,-0.063682 -0.07164,-0.063682 -0.07164,-0.1910448 0,-0.1233831 0.06766,-0.1870646 0.07164,-0.063682 0.179104,-0.063682 0.103483,0 0.175125,0.063682 0.07562,0.059701 0.07562,0.1870646 0,0.1313433 -0.07562,0.1950249 -0.07562,0.059702 -0.175125,0.059702 z M 13.724688,10 q -0.127363,0 -0.274626,-0.019901 -0.147264,-0.01592 -0.250747,-0.047761 V 9.6179105 q 0.103483,0.035821 0.234826,0.059701 0.131343,0.023881 0.250746,0.023881 0.266667,0 0.38209,-0.1313432 Q 14.1824,9.438806 14.1824,9.1721393 V 7.1900498 L 13.485882,7.1383085 V 6.8915423 h 1.054727 v 2.3402985 q 0,0.3701493 -0.214926,0.5691542 Q 14.114738,10 13.724688,10 Z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono';fill:#16ab8d;fill-opacity:1;stroke-width:0.09950251"
+       id="path836" />
+    <path
+       d="m 16.326119,9.0646766 q -0.314428,0 -0.509453,-0.1552238 -0.191045,-0.1552239 -0.191045,-0.4696518 0,-0.3462686 0.246767,-0.5174129 0.250746,-0.1711443 0.720398,-0.1830846 l 0.457711,-0.01194 V 7.639801 q 0,-0.2865671 -0.143284,-0.3900497 -0.143283,-0.1074627 -0.386069,-0.1074627 -0.171145,0 -0.326368,0.043781 -0.155224,0.043781 -0.294528,0.1233831 L 15.776865,7.038806 q 0.151244,-0.075622 0.334329,-0.1313433 0.187064,-0.055721 0.42985,-0.055721 0.39801,0 0.616916,0.1830846 0.218905,0.1791045 0.218905,0.561194 v 1.4288557 h -0.286567 l -0.0398,-0.2945273 h -0.01592 q -0.131344,0.1671642 -0.306468,0.2507462 -0.171144,0.083582 -0.40199,0.083582 z m 0.0597,-0.2905472 q 0.179105,0 0.330349,-0.063682 0.151243,-0.067662 0.242786,-0.199005 0.09154,-0.1313433 0.09154,-0.3383084 V 7.9820896 l -0.38209,0.01194 q -0.382089,0.01194 -0.545273,0.1233831 -0.159204,0.1114428 -0.159204,0.3104477 0,0.1830846 0.115423,0.2666667 0.115423,0.079602 0.306467,0.079602 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono';fill:#16ab8d;fill-opacity:1;stroke-width:0.09950251"
+       id="path838" />
+    <path
+       d="M 17.980286,9.0248756 V 8.7860697 l 0.648756,-0.059702 V 7.1900498 L 18.043967,7.1383085 V 6.8915423 h 0.871642 l 0.04776,0.3900498 h 0.01592 q 0.111442,-0.2069652 0.242786,-0.318408 0.135323,-0.1114428 0.354229,-0.1114428 0.135323,0 0.238806,0.023881 0.107462,0.023881 0.195024,0.063682 l -0.09552,0.3144279 q -0.06368,-0.035821 -0.151244,-0.059702 -0.08756,-0.027861 -0.187064,-0.027861 -0.171145,0 -0.302488,0.1074627 -0.131343,0.1074627 -0.206965,0.2865671 -0.07562,0.1791045 -0.07562,0.3940299 v 0.7721393 l 0.620895,0.059702 v 0.2388059 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono';fill:#16ab8d;fill-opacity:1;stroke-width:0.09950251"
+       id="path840" />
+    <path
+       d="m 21.318034,9.0646766 q -0.278607,0 -0.501493,-0.1194029 -0.218905,-0.1233831 -0.350249,-0.3701493 -0.127363,-0.2507463 -0.127363,-0.6248756 0,-0.3701493 0.123383,-0.6129353 0.127363,-0.2427861 0.346269,-0.3621891 0.218905,-0.1233831 0.497512,-0.1233831 0.278607,0 0.501493,0.1233831 0.222885,0.119403 0.350249,0.3661692 0.131343,0.242786 0.131343,0.6208955 0,0.3701492 -0.127363,0.6169154 -0.127363,0.2427861 -0.346269,0.3661692 -0.218905,0.1194029 -0.497512,0.1194029 z m -0.004,-0.2905472 q 0.310447,0 0.461691,-0.2189055 0.151244,-0.2228856 0.151244,-0.600995 0,-0.3781095 -0.155224,-0.5930348 -0.151244,-0.2189055 -0.461692,-0.2189055 -0.310447,0 -0.465671,0.2189055 -0.151244,0.2149253 -0.151244,0.5930348 0,0.3781094 0.155224,0.600995 0.155224,0.2189055 0.465672,0.2189055 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono';fill:#16ab8d;fill-opacity:1;stroke-width:0.09950251"
+       id="path842" />
+    <path
+       d="m 23.704539,7.3930349 q -0.103483,0 -0.175125,-0.063682 -0.07164,-0.063682 -0.07164,-0.2069652 0,-0.1512438 0.07164,-0.2109453 0.07164,-0.059702 0.175125,-0.059702 0.0995,0 0.171144,0.059702 0.07164,0.059702 0.07164,0.2109453 0,0.1432836 -0.07164,0.2069652 -0.07164,0.063682 -0.171144,0.063682 z m -0.004,1.6716417 q -0.103483,0 -0.175125,-0.063682 -0.07164,-0.063681 -0.07164,-0.2069651 0,-0.1512438 0.07164,-0.2109453 0.07164,-0.059701 0.175125,-0.059701 0.103482,0 0.171144,0.059701 0.07164,0.059702 0.07164,0.2109453 0,0.1432836 -0.07164,0.2069651 -0.06766,0.063682 -0.171144,0.063682 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono';fill:#16ab8d;fill-opacity:1;stroke-width:0.09950251"
+       id="path844" />
+    <path
+       d="M 25.231342,7.8825871 V 7.5721393 q 0.191045,-0.2109452 0.477612,-0.2109452 0.0995,0 0.191045,0.027861 0.09552,0.027861 0.250746,0.099502 0.115423,0.055721 0.187065,0.083582 0.07562,0.023881 0.147264,0.023881 0.115423,0 0.238806,-0.067662 0.123383,-0.067662 0.218905,-0.1671642 v 0.3064676 q -0.195025,0.2149254 -0.477612,0.2149254 -0.0995,0 -0.195025,-0.027861 -0.09552,-0.031841 -0.250746,-0.099502 -0.115423,-0.051741 -0.191045,-0.079602 -0.07164,-0.027861 -0.143283,-0.027861 -0.111443,0 -0.234826,0.067662 -0.123383,0.067662 -0.218906,0.1671642 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono';fill:#16ab8d;fill-opacity:1;stroke-width:0.09950251"
+       id="path846" />
+    <path
+       d="M 28.326305,9.2557214 V 8.8895523 Q 28.1273,8.8855722 27.944216,8.8537314 27.765111,8.8179105 27.637748,8.758209 V 8.4199005 q 0.135323,0.063682 0.318408,0.1114428 0.183085,0.047761 0.370149,0.051741 V 7.719403 Q 27.964116,7.6039801 27.781032,7.4447762 27.597947,7.2815921 27.597947,6.9751244 q 0,-0.2985074 0.195025,-0.4776119 0.199005,-0.1791045 0.533333,-0.2029851 V 6.0039802 h 0.254727 v 0.2865671 q 0.199005,0.00398 0.358209,0.047761 0.159204,0.039801 0.302487,0.099502 l -0.107463,0.2945274 q -0.127363,-0.051741 -0.266666,-0.087562 -0.139304,-0.039801 -0.286567,-0.051741 v 0.8597015 q 0.254726,0.075622 0.42587,0.163184 0.171145,0.083582 0.254727,0.2189055 0.08756,0.1313433 0.08756,0.3462687 0,0.2786069 -0.202985,0.4656716 -0.199005,0.1870647 -0.565174,0.2268657 v 0.3820895 z m 0,-1.8905472 V 6.6009951 q -0.199005,0.019901 -0.294527,0.119403 -0.09154,0.099503 -0.09154,0.2547263 0,0.1512438 0.08358,0.2427861 0.08358,0.087562 0.302487,0.1472637 z m 0.254727,1.1980099 q 0.218905,-0.027861 0.322388,-0.1273632 0.103482,-0.1034826 0.103482,-0.2626865 0,-0.1512438 -0.09154,-0.2268657 -0.08756,-0.075622 -0.334328,-0.1432836 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono';fill:#16ab8d;fill-opacity:1;stroke-width:0.09950251"
+       id="path848" />
+  </g>
+</svg>

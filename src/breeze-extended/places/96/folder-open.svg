@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 25.399999 25.400001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="folder-open.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="96px"
+     inkscape:zoom="5.7747054"
+     inkscape:cx="24.849753"
+     inkscape:cy="48.573906"
+     inkscape:window-width="1920"
+     inkscape:window-height="999"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      </style>
+  </defs>
+  <path
+     id="rect846-3"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.300092"
+     class="ColorScheme-Highlight"
+     d="m 1.3229165,2.1166673 8.9958335,-7e-7 2.381251,3.1749999 11.377083,7e-7 V 23.283333 H 1.3229165 Z"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     id="rect956-3-6"
+     style="opacity:0.2;fill:#f9f9f9;stroke-width:1.73204"
+     d="M 39 8 L 48 21 L 91 21 L 91 20 L 48 20 L 39 8 z M 48 33 L 39 45 L 5 45 L 5 46 L 40 46 L 48 33 z "
+     transform="scale(0.26458333)" />
+  <path
+     id="rect956-3-7"
+     style="opacity:0.2;stroke-width:0.458269"
+     d="m 24.077084,23.018749 v 0.264584 H 1.3229166 v -0.264584 z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="rect2772"
+     style="opacity:0.3;stroke-width:0.264583"
+     d="m 1.322917,2.1166668 h 8.995833 l 2.381251,3.175 11.377083,1e-6 v 3.439583 H 12.7 l -2.38125,3.1749992 -8.995833,-10e-7 z"
+     sodipodi:nodetypes="ccccccccc" />
+  <path
+     id="rect956-3"
+     style="opacity:0.2;stroke-width:0.458269"
+     d="M 10.054167,11.641667 12.7,8.7312503 10.31875,11.906251 H 1.3229166 v -0.264584 z"
+     sodipodi:nodetypes="cccccc" />
+</svg>

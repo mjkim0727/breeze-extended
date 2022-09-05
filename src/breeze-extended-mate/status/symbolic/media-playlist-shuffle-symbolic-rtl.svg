@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg9"
+   sodipodi:docname="media-playlist-shuffle-symbolic-rtl.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="41.0625"
+     inkscape:cx="7.9878234"
+     inkscape:cy="4.9071537"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#232627;
+      }</style>
+  </defs>
+  <path
+     d="M 14.29297,1 15,1.70703 9.4141,7.29293 8.70707,6.5859 Z m -7.707,7.707 0.70703,0.70703 -4.5859,4.5859 h 3.293 v 1 h -4 -1 v -1 -4 h 1 v 3.293 L 6.586,8.70703 Z"
+     fill="#232627"
+     id="path5" />
+  <path
+     d="M 14.99997,14.293 2.70697,2 h 3.293 V 1 h -5 v 5 h 1 V 2.707 L 14.29297,15 Z"
+     fill="#232627"
+     id="path7" />
+</svg>

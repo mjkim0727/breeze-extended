@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208335"
+   version="1.1"
+   id="svg2123"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="weather-fog.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <path
+     id="rect849"
+     style="fill:url(#linearGradient1695);stroke-width:0.500001;stroke-linejoin:round;fill-opacity:1"
+     d="M 4 4 C 3.446 4 3 4.446 3 5 C 3 5.554 3.446 6 4 6 L 13 6 C 13.554 6 14 5.554 14 5 C 14 4.446 13.554 4 13 4 L 4 4 z M 7 8 C 6.446 8 6 8.446 6 9 C 6 9.554 6.446 10 7 10 L 19 10 C 19.554 10 20 9.554 20 9 C 20 8.446 19.554 8 19 8 L 7 8 z M 3 12 C 2.446 12 2 12.446 2 13 C 2 13.554 2.446 14 3 14 L 15 14 C 15.554 14 16 13.554 16 13 C 16 12.446 15.554 12 15 12 L 3 12 z M 6 16 C 5.446 16 5 16.446 5 17 C 5 17.554 5.446 18 6 18 L 19 18 C 19.554 18 20 17.554 20 17 C 20 16.446 19.554 16 19 16 L 6 16 z "
+     transform="scale(0.26458333)" />
+  <path
+     id="rect849-3"
+     style="fill:#000000;opacity:0.2;stroke-width:0.500001;stroke-linejoin:round"
+     d="M 3.03125 4.75 C 3.0108007 4.8299294 3 4.9135218 3 5 C 3 5.5539997 3.4460003 6 4 6 L 13 6 C 13.554 6 14 5.5539997 14 5 C 14 4.9135218 13.989199 4.8299294 13.96875 4.75 C 13.858196 5.1821177 13.467522 5.5 13 5.5 L 4 5.5 C 3.5324784 5.5 3.141804 5.1821177 3.03125 4.75 z M 6.03125 8.75 C 6.0108007 8.8299294 6 8.9135218 6 9 C 6 9.5539997 6.4460003 10 7 10 L 19 10 C 19.554 10 20 9.5539997 20 9 C 20 8.9135218 19.989199 8.8299294 19.96875 8.75 C 19.858196 9.1821175 19.467522 9.5 19 9.5 L 7 9.5 C 6.5324781 9.5 6.141804 9.1821175 6.03125 8.75 z M 2.03125 12.75 C 2.0108007 12.829929 2 12.913522 2 13 C 2 13.554 2.4459999 14 3 14 L 15 14 C 15.554 14 16 13.554 16 13 C 16 12.913522 15.989199 12.829929 15.96875 12.75 C 15.858196 13.182117 15.467522 13.5 15 13.5 L 3 13.5 C 2.5324781 13.5 2.141804 13.182117 2.03125 12.75 z M 5.03125 16.75 C 5.0108007 16.829929 5 16.913522 5 17 C 5 17.554 5.4459999 18 6 18 L 19 18 C 19.554 18 20 17.554 20 17 C 20 16.913522 19.989199 16.829929 19.96875 16.75 C 19.858196 17.182118 19.467522 17.5 19 17.5 L 6 17.5 C 5.5324781 17.5 5.141804 17.182118 5.03125 16.75 z "
+     transform="scale(0.26458333)" />
+  <sodipodi:namedview
+     id="namedview2125"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="19.744149"
+     inkscape:cx="0.98763434"
+     inkscape:cy="12.130176"
+     inkscape:window-width="1920"
+     inkscape:window-height="999"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2123" />
+  <defs
+     id="defs2120">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2887">
+      <stop
+         style="stop-color:#eff1f1;stop-opacity:1;"
+         offset="0"
+         id="stop2883" />
+      <stop
+         style="stop-color:#b0b8b8;stop-opacity:1"
+         offset="1"
+         id="stop2885" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2887"
+       id="linearGradient1695"
+       x1="20"
+       y1="4.012958"
+       x2="20"
+       y2="19"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+</svg>

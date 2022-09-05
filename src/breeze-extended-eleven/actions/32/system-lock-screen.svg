@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="system-lock-screen.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="21.53125"
+     inkscape:cx="16.023222"
+     inkscape:cy="15.976778"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs3051">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9705">
+      <stop
+         style="stop-color:#ff9955;stop-opacity:1"
+         offset="0"
+         id="stop9701" />
+      <stop
+         style="stop-color:#ffe6d5;stop-opacity:1"
+         offset="1"
+         id="stop9703" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2816">
+      <stop
+         style="stop-color:#d45500;stop-opacity:1"
+         offset="0"
+         id="stop2812" />
+      <stop
+         style="stop-color:#ff9955;stop-opacity:1"
+         offset="1"
+         id="stop2814" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1451">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1447" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop1449" />
+    </linearGradient>
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#232629;
+      }
+      </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1451"
+       id="linearGradient1453"
+       x1="4.6013103"
+       y1="7.4276948"
+       x2="22"
+       y2="24"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2816"
+       id="linearGradient2818"
+       x1="16"
+       y1="30"
+       x2="16.060675"
+       y2="1.9016408"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9705"
+       id="linearGradient9707"
+       x1="15.20126"
+       y1="28.090225"
+       x2="14.975477"
+       y2="7.8605514"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <circle
+     cx="16"
+     cy="16"
+     r="14"
+     id="circle2"
+     style="fill:url(#linearGradient2818);fill-opacity:1;stroke-width:0.7" />
+  <path
+     d="M 29.9853,15.5926 A 14,14 0 0 1 16,29.3 14,14 0 0 1 2.0154,15.7074 14,14 0 0 0 2,16 14,14 0 0 0 16,30 14,14 0 0 0 30,16 14,14 0 0 0 29.9853,15.5926 Z"
+     id="path10"
+     inkscape:connector-curvature="0"
+     style="opacity:0.2;stroke-width:0.7" />
+  <path
+     id="circle2-6"
+     style="fill:url(#linearGradient1453);fill-opacity:1;stroke-width:0.7;opacity:0.3"
+     d="m 16,7.9999998 c -2.216,0 -4,1.7839999 -4,4.0000002 v 4 h -2 v 1 7 l 6,6 A 14,14 0 0 0 29.462891,19.800781 L 18.830079,9.1679685 C 18.107079,8.4449685 17.108001,7.9999996 16,7.9999998 Z" />
+  <path
+     style="fill:url(#linearGradient9707);fill-opacity:1;stroke:none"
+     d="m 16,8 c -2.216,0 -4,1.784 -4,4 v 4 h -2 v 1 7 h 1 10 1 V 16 H 21 20 V 12 C 20,9.784 18.216,8 16,8 Z m 0,1 c 1.662,0 3,1.561 3,3.5 V 16 H 13 V 12.5 C 13,10.561 14.338,9 16,9 Z m -5,8 h 10 v 6 H 11 Z"
+     class="ColorScheme-Text"
+     id="path4"
+     sodipodi:nodetypes="ssccccccccccssssccssccccc" />
+</svg>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11300"
+   width="48"
+   height="48"
+   style="enable-background:new"
+   version="1.0"
+   viewBox="0 0 48 48"
+   sodipodi:docname="goa-account-ubuntusso.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs13">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient884">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop880" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop882" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient868">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop864" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop866" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient845">
+      <stop
+         style="stop-color:#d04515;stop-opacity:1;"
+         offset="0"
+         id="stop841" />
+      <stop
+         style="stop-color:#f08e6b;stop-opacity:1"
+         offset="1"
+         id="stop843" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient845"
+       id="linearGradient847"
+       x1="36.938389"
+       y1="44.616116"
+       x2="28.715639"
+       y2="2.4360189"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient868"
+       id="linearGradient870"
+       x1="34"
+       y1="11"
+       x2="45.720501"
+       y2="22.720503"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient868"
+       id="linearGradient872"
+       x1="21.580675"
+       y1="11"
+       x2="26.897163"
+       y2="16.316488"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient884"
+       id="linearGradient886"
+       x1="22.230154"
+       y1="8.770277"
+       x2="31.815004"
+       y2="49.047043"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
+     id="namedview11"
+     showgrid="true"
+     inkscape:zoom="13.73"
+     inkscape:cx="20.66707"
+     inkscape:cy="17.792677"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11300">
+    <inkscape:grid
+       type="xygrid"
+       id="grid849" />
+  </sodipodi:namedview>
+  <title
+     id="title4162">Ubuntu One Icon</title>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andrea Azzarone</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:title>Ubuntu One Icon</dc:title>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:date />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier />
+        <dc:relation />
+        <dc:language />
+        <dc:coverage />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     id="rect1745"
+     x="4.0000005"
+     y="4.0000005"
+     width="40"
+     height="40"
+     style="fill:url(#linearGradient847);stroke-width:0.38461539;paint-order:normal;enable-background:new;fill-opacity:1" />
+  <rect
+     style="opacity:1;fill:#305a30;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="rect839"
+     width="0.47393364"
+     height="0.11848341"
+     x="71.919434"
+     y="38.521328" />
+  <path
+     style="opacity:0.3;fill:url(#linearGradient870);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     d="M 34 11 L 33.875 11.185547 C 33.917542 11.408168 33.938724 14.598593 33.964844 23.613281 L 34 35.699219 L 33.806641 35.730469 C 33.700803 35.747929 33.526255 35.783224 33.417969 35.808594 C 32.572019 36.007278 31.818091 36.157804 30.736328 36.341797 C 30.479159 36.385628 30.079715 36.453581 29.849609 36.494141 C 27.375712 36.929196 23.430347 37.135193 22.029297 36.902344 C 20.591042 36.663197 19.512725 36.284837 18.160156 35.542969 C 17.878505 35.388469 17.602921 35.187978 17.332031 34.96875 L 26.363281 44 L 44 44 L 44 21 L 34 11 z "
+     id="rect851" />
+  <path
+     style="opacity:0.3;fill:url(#linearGradient872);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     d="M 21.580078 11 L 18.544922 17.974609 L 20.974609 18.025391 L 21 24.085938 L 21.025391 29.986328 L 26.988281 30.013672 L 27 20.507812 L 27.005859 16.425781 L 21.580078 11 z "
+     id="rect857" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:url(#linearGradient886);stroke-width:0.12431677;fill-opacity:1"
+     d="m 14.000775,11 -7.49e-4,1.770519 c -0.0019,4.365194 0.104718,15.820704 0.152585,16.212602 0.05377,0.439703 0.0678,0.513549 0.242658,1.281045 0.484963,2.128421 2.068025,4.347959 3.764609,5.278622 1.352569,0.741868 2.43126,1.121027 3.869515,1.360174 1.40105,0.232849 5.346434,0.02701 7.820331,-0.408045 0.230106,-0.04056 0.628796,-0.109391 0.885965,-0.153222 1.081763,-0.183993 1.836558,-0.333824 2.682508,-0.532508 0.108286,-0.02537 0.283511,-0.06053 0.389349,-0.07799 L 34,35.699427 33.96493,23.613937 C 33.93799,14.316312 33.9162,11.042718 33.87092,11.013121 c -0.03237,-0.02109 -1.509703,-0.03304 -3.282905,-0.02649 l -3.57558,0.01207 -0.01244,9.508898 -0.01243,9.505326 L 21.02462,29.987075 21,24.085082 20.97538,18.025135 18.544147,17.974865 21.580675,11"
+     id="path4060-7"
+     sodipodi:nodetypes="cccccccccccccccccccccc" />
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="rect834"
+     width="40"
+     height="1"
+     x="4"
+     y="43" />
+</svg>

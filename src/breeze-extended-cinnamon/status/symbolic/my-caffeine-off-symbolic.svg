@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   width="16"
+   height="16"
+   version="1.1"
+   sodipodi:docname="my-caffeine-off-symbolic.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs10">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#232627; } .ColorScheme-Highlight { color:#3daee9; }
+  </style>
+  </defs>
+  <path
+     id="rect4137"
+     style="opacity:1;fill:#232627;fill-opacity:1"
+     d="M 4,6 C 1.790861,6 0,7.790861 0,10 0,12.209139 1.790861,14 4,14 4.2424594,13.999162 4.4843405,13.97628 4.7226562,13.93164 5.4620206,15.481093 6.9580363,16 10,16 c 6,0 6,-2 6,-10 z m 1,1 h 9.976562 c -0.02065,3.304783 -0.126528,5.563604 -0.621093,6.552734 C 14.07985,14.103973 13.774805,14.382885 13.121094,14.625 12.467382,14.867115 11.444444,15 10,15 8.535879,15 7.507241,14.862243 6.8554688,14.613281 6.2036963,14.364319 5.9004718,14.079246 5.625,13.501953 l -0.3046875,-0.640625 0.011719,-0.002 -0.1386718,-1.007813 C 5.0622841,10.892155 5.019332,9.575549 5.0078125,7.992188 Z M 4,8 H 4.00781 C 4.019423,9.596219 4.059976,10.938455 4.2031225,11.986328 4.1356985,11.994331 4.0678957,11.998894 4,12 2.8954305,12 2,11.104569 2,10 2,8.895431 2.8954305,8 4,8 Z"
+     inkscape:connector-curvature="0" />
+</svg>

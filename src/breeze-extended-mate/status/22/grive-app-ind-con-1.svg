@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="22" height="22" version="1.1">
+ <defs id="defs14">
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#cecfce; } .ColorScheme-Highlight { color:#3daee9; }
+  </style>
+ </defs>
+ <path id="path4488" style="fill:#cecfce;fill-opacity:1;opacity:1" d="m 8,3 5.5,10 H 20 L 14,3 Z"/>
+ <path id="path4506" style="fill:#cecfce;fill-opacity:1;opacity:1" d="m 9.6914062,4 h 3.7421878 l 4.800781,8 h -4.142578 z"/>
+ <path id="path4504" style="fill:#cecfce;fill-opacity:1" d="M 7.5,4 2,14 5,19 10.5,9.5 Z M 7.4980469,6.0820312 9.3535156,9.4863281 4.984375,17.03125 3.1523438,13.978516 Z"/>
+ <path id="path4489" style="fill:#cecfce;fill-opacity:1" d="M 20,14 9,14.009766 6,19 h 11 z"/>
+ <path id="path4498" style="fill:#cecfce;fill-opacity:1" d="M 18.232422,15.001953 16.433594,18 H 7.7695312 l 1.796875,-2.990234 z"/>
+</svg>

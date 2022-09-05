@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="15.974"
+   version="1.1"
+   sodipodi:docname="find-location-symbolic.svg"
+   inkscape:version="0.92.1 r15371">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="808"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="7.987"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     style="color:#000000;fill:#eff0f1;fill-opacity:1"
+     d="M 7 0 L 7 1.03125 C 3.8376 1.29414 1.3104 3.8335 1.0625 7 L 0 7 L 0 8 L 1.0625 8 C 1.31041 11.1668 3.8372 13.70615 7 13.96875 L 7 15 L 8 15 L 8 13.96875 C 11.1881 13.73494 13.72395 11.1882 13.96875 8 L 15 8 L 15 7 L 13.96875 7 C 13.72395 3.8113 11.189 1.233 8 1 L 8 0 L 7 0 z M 7.5371094 2 C 10.575034 2 13 4.4418241 13 7.5 C 13 10.558175 10.575034 13 7.5371094 13 C 4.4991863 13 2 10.558175 2 7.5 C 2 4.4418241 4.4991863 2 7.5371094 2 z M 7.5 3 C 5.0147143 3 3 5.0147143 3 7.5 C 3 9.9852852 5.0147143 12 7.5 12 C 9.985286 12 12 9.9852852 12 7.5 C 12 5.0147143 9.985286 3 7.5 3 z "
+     id="path4490" />
+</svg>

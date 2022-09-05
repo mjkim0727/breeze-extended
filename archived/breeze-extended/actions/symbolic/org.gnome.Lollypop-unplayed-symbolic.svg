@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333335"
+   version="1.1"
+   id="svg1058"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="org.gnome.Lollypop-unplayed-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1060"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="29.392857"
+     inkscape:cx="0.034021871"
+     inkscape:cy="3.7253949"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1058" />
+  <defs
+     id="defs1055">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#232629;
+      }
+      </style>
+  </defs>
+  <path
+     id="rect1141"
+     style="fill:currentColor;stroke-width:0.346736"
+     class="ColorScheme-Text"
+     d="M 0.26458334,0.26458334 V 3.9687501 H 2.1166667 V 0.26458334 Z M 2.3812501,0.28370372 V 0.55138755 A 1.5875001,1.5875001 0 0 1 3.7041668,2.1166667 1.5875001,1.5875001 0 0 1 2.3812501,3.681946 v 0.2682007 a 1.8520834,1.8520834 0 0 0 1.5875,-1.83348 1.8520834,1.8520834 0 0 0 -1.5875,-1.83296298 z M 0.52916668,0.52916668 H 1.0583334 V 3.7041668 H 0.52916668 Z M 2.3812501,1.3689087 v 0.289388 a 0.52916671,0.52916671 0 0 1 0.2645833,0.45837 0.52916671,0.52916671 0 0 1 -0.2645833,0.45837 v 0.289388 A 0.79374999,0.79374999 0 0 0 2.9104167,2.1166667 0.79374999,0.79374999 0 0 0 2.3812501,1.3689087 Z" />
+</svg>

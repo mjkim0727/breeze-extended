@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   sodipodi:docname="media-flash-symbolic.svg"
+   inkscape:version="0.92.1 r15371">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="808"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="18.16"
+     inkscape:cx="7.1927313"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     style="color:#bebebe;text-indent:0;text-transform:none;fill:#232627;fill-opacity:1"
+     d="m 3.56025,2.2655e-4 c -0.84831,0 -1.5625,0.71419 -1.5625,1.56250005 V 14.43775 c 0,0.84832 0.71417,1.5625 1.5625,1.5625 h 9.874867 c 0.84834,0 1.5625,-0.71416 1.5625,-1.5625 V 2.5314766 L 12.556212,0.00217965 Z m 0,1.00000005 8.572132,0.00195 1.865235,1.9335938 V 14.43775 c 0,0.287118 -0.275382,0.5625 -0.5625,0.5625 H 3.56025 c -0.2870862,0 -0.5625,-0.275423 -0.5625,-0.5625 V 1.5627266 c 0,-0.2870452 0.2754549,-0.5625 0.5625,-0.5625 z M 6.9394531,5 c -0.51728,0 -0.9375,0.42022 -0.9375,0.9375 v 2.03125 c 0,0.51727 0.42022,0.9375 0.9375,0.9375 h 0.0625 V 6 h 1 v 2.90625 h 2.0624999 c 0.51728,0 0.9375,-0.42023 0.9375,-0.9375 V 5.9375 C 11.001953,5.42022 10.581733,5 10.064453,5 h -0.0625 V 8.03125 H 9.0019531 V 5 Z"
+     id="path4493"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csssssccccccssssscssssccccssssccccs" />
+</svg>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208335"
+   version="1.1"
+   id="svg84"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="fcitx-hangul-panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview86"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="36.863636"
+     inkscape:cx="11.013564"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg84" />
+  <defs
+     id="defs81">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#cecfce; } .ColorScheme-Highlight { color:#3daee9; }
+  </style>
+  </defs>
+  <path
+     id="path71"
+     style="color:#cecfce;fill:currentColor;stroke-width:0.999999"
+     d="M 5 3 C 3.8920001 3 3 3.8919998 3 5 L 3 17 C 3 18.108 3.8920001 19 5 19 L 17 19 C 18.108 19 19 18.108 19 17 L 19 5 C 19 3.8919998 18.108 3 17 3 L 5 3 z M 5 4 L 17 4 C 17.571297 4 18 4.4287029 18 5 L 18 17 C 18 17.571297 17.571297 18 17 18 L 5 18 C 4.4287029 18 4 17.571297 4 17 L 4 5 C 4 4.4287029 4.4287029 4 5 4 z M 8.484375 5 L 8.484375 6.453125 L 5.5 6.453125 L 5.5 7.3378906 L 12.550781 7.3378906 L 12.550781 6.453125 L 9.5800781 6.453125 L 9.5800781 5 L 8.484375 5 z M 13.648438 5 L 13.648438 13.953125 L 14.744141 13.953125 L 14.744141 9.8339844 L 16.5 9.8339844 L 16.5 8.921875 L 14.744141 8.921875 L 14.744141 5 L 13.648438 5 z M 9.0253906 7.984375 C 7.321908 7.984375 6.1601563 8.8698572 6.1601562 10.216797 C 6.1601562 11.563737 7.321908 12.435547 9.0253906 12.435547 C 10.715668 12.435547 11.878906 11.563737 11.878906 10.216797 C 11.878906 8.8698572 10.715668 7.984375 9.0253906 7.984375 z M 9.0253906 8.8417969 C 10.108225 8.8417969 10.833984 9.3848635 10.833984 10.216797 C 10.833984 11.04873 10.108225 11.576172 9.0253906 11.576172 C 7.9425567 11.576172 7.2167969 11.04873 7.2167969 10.216797 C 7.2167969 9.3848635 7.9425567 8.8417969 9.0253906 8.8417969 z M 7.3085938 13.240234 L 7.3085938 16.673828 L 15.271484 16.673828 L 15.271484 15.775391 L 8.3925781 15.775391 L 8.3925781 13.240234 L 7.3085938 13.240234 z "
+     transform="scale(0.26458333)" />
+</svg>

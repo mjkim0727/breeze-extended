@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="weather-snow-large.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="128px"
+     showguides="false"
+     inkscape:zoom="3.15625"
+     inkscape:cx="175.84158"
+     inkscape:cy="107.08911"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8933">
+      <stop
+         style="stop-color:#abdaf9;stop-opacity:1;"
+         offset="0"
+         id="stop8929" />
+      <stop
+         style="stop-color:#e1f2ff;stop-opacity:1"
+         offset="1"
+         id="stop8931" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8933"
+       id="linearGradient8935"
+       x1="64"
+       y1="114"
+       x2="64"
+       y2="14"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect3208-2"
+       style="fill:url(#linearGradient8935);fill-opacity:1;stroke-width:0.768042"
+       d="m 64,14 -3,1.732422 v 13.300781 l -9.587891,-5.535156 -3,5.197265 L 61,35.960938 V 60.103516 L 40.091797,48.033203 V 33.498047 h -6 v 11.070312 l -9.265625,-5.349609 -3,1.732422 v 3.464844 l 9.267578,5.349609 -9.589844,5.537109 3,5.195313 L 37.091797,53.230469 58,65.300781 37.089844,77.373047 24.503906,70.105469 l -3,5.195312 9.587891,5.535157 -9.265625,5.349609 v 3.464844 l 3,1.730468 9.265625,-5.349609 v 11.074219 h 6 V 82.566406 L 61,70.496094 v 24.144531 l -12.587891,7.267575 3,5.19532 L 61,101.56836 v 10.69922 L 64,114 l 3,-1.73242 v -10.69922 l 9.589844,5.53711 3,-5.19727 L 67,94.638672 V 70.498047 l 20.908203,12.070312 v 14.535157 l 6,0.002 V 86.033203 l 11.519527,6.650391 3,-1.732422 v -3.464844 l -11.517574,-6.65039 9.587894,-5.535157 -3,-5.195312 L 90.910156,77.373047 70,65.298828 90.90625,53.228516 l 12.5918,7.269531 3,-5.197266 -9.589847,-5.537109 11.519527,-6.650391 v -3.46289 l -3,-1.732422 -11.519527,6.65039 V 33.498047 h -6 V 48.033203 L 67,60.103516 V 35.962891 l 12.589844,-7.269532 -3,-5.195312 L 67,29.033203 V 15.732422 Z"
+       transform="scale(0.26458334)" />
+    <path
+       id="rect3208-2-3"
+       style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.768042"
+       d="M 78.724609,27.193359 67,33.962891 v 2 l 12.589844,-7.269532 z m -29.447265,0.002 -0.865235,1.5 L 61,35.960938 v -2 z m 59.150386,13.917969 -13.249995,7.650347 1.730468,0.999997 11.519527,-6.650344 z m -86.601558,1.302735 v 2 l 9.267578,5.349562 1.730469,-1.000004 z M 90.90625,51.228516 70.000001,63.298824 70,65.298828 90.90625,53.228516 l 12.5918,7.269531 0.86524,-1.5 z m -53.814453,0.002 -13.453126,7.767578 0.865235,1.5 L 37.091797,53.230516 58,65.300781 V 63.300828 Z M 61,68.496094 40.091797,80.566406 v 2 L 61,70.496094 Z m 6,0.002 v 2 l 20.908203,12.070312 v -2 z m -44.630859,5.302734 -0.865235,1.5 9.587891,5.53511 1.732422,-1 z m 83.263669,0 -10.455076,6.03511 1.732422,1 9.587894,-5.53511 z m -71.541013,10.230469 -9.265625,5.349609 -3,-1.730468 v 2 l 3,1.730468 9.265625,-5.349609 z m 59.816406,0.002 v 2 l 11.519527,6.650391 3,-1.732422 v -2 l -3,1.732422 z m -6,11.070313 v 2 l 6,0.002 v -2 z m -53.816406,0.002 v 2 h 6 v -2 z M 61,99.568359 l -9.587891,5.535161 -2.134765,-3.69532 -0.865235,0.5 3,5.19532 L 61,101.56836 Z m 6,0 v 2.000001 l 9.589844,5.53711 3,-5.19727 -0.865235,-0.5 -2.134765,3.69727 z m -6,10.699221 v 2 L 64,114 l 3,-1.73242 v -2 L 64,112 Z"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+       transform="scale(0.26458334)" />
+  </g>
+</svg>

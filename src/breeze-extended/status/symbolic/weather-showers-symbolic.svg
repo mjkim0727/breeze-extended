@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   sodipodi:docname="weather-showers-symbolic.svg"
+   inkscape:version="0.92.1 r15371">
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="808"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-5.8644068"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#232627;fill-opacity:1"
+     d="m 7.9999998,8.3853078e-4 c -2.07107,0 -3.83471,1.26792026922 -4.59375,3.06250006922 C 1.4784198,3.3499388 -2e-7,4.9932591 -2e-7,7.0008384 c 0,2.20914 1.79086,3.9999996 4,3.9999996 H 12.5 c 1.933,0 3.5,-1.5669996 3.5,-3.4999996 C 16,5.7042989 14.64921,4.2321387 12.90625,4.0320886 12.45168,1.7386986 10.42687,8.3863078e-4 7.9999998,8.3853078e-4 Z m 0,1.00000006922 c 1.949476,0 3.5625912,1.3942009 3.9257812,3.2265626 l 0.140625,0.7148436 0.726563,0.083984 C 14.041935,5.169581 15,6.2055554 15,7.5008384 15,8.8934004 13.892562,10.000838 12.5,10.000838 H 3.9999998 c -1.6687,0 -3,-1.3312986 -3,-2.9999996 0,-1.5166329 1.101299,-2.7334413 2.552735,-2.9492185 l 0.55664,-0.082031 0.21875,-0.5175781 C 4.9365028,2.0136384 6.3370668,1.000839 7.9999998,1.0008386 Z M 2.9785158,11.991073 a 0.50005,0.50005 0 0 0 -0.425781,0.283203 l -1,2 a 0.50006306,0.50006306 0 1 0 0.894531,0.447265 l 1,-2 a 0.50005,0.50005 0 0 0 -0.46875,-0.730468 z m 2.5,0 a 0.50005,0.50005 0 0 0 -0.425781,0.283203 l -1,2 a 0.50006306,0.50006306 0 1 0 0.894531,0.447265 l 1,-2 a 0.50005,0.50005 0 0 0 -0.46875,-0.730468 z m 2.5,0 a 0.50005,0.50005 0 0 0 -0.425782,0.283203 l -0.999999,2 a 0.50006306,0.50006306 0 1 0 0.894531,0.447265 l 1,-2 a 0.50005,0.50005 0 0 0 -0.46875,-0.730468 z m 2.5000002,0 a 0.50005,0.50005 0 0 0 -0.425782,0.283203 l -1.0000002,2 a 0.50006306,0.50006306 0 1 0 0.894532,0.447265 l 1.0000002,-2 a 0.50005,0.50005 0 0 0 -0.46875,-0.730468 z m 2.5,0 a 0.50005,0.50005 0 0 0 -0.425782,0.283203 l -1,2 a 0.50006306,0.50006306 0 1 0 0.894532,0.447265 l 1,-2 a 0.50005,0.50005 0 0 0 -0.46875,-0.730468 z"
+     id="path4500" />
+</svg>
