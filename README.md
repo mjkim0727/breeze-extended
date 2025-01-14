@@ -6,6 +6,8 @@ Breeze icons for other DEs.
 
 Original authorized by KDE VDG
 
+This Project is deprecated for KDE. KDE users can use breeze-plus.
+
 # Available in
 
 KDE, GNOME, Xfce, Cinnamon, LXQt, MATE
